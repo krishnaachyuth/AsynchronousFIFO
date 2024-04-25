@@ -1,3 +1,12 @@
+/**********************************************************************/
+/* ECE -593 FUNDAMENTALS OF PRESILICON VALIDATION                     */
+/*				FINAL PROJECT										                            */		
+/* Authors : Achyuth Krishna Chepuri                                  */
+/* 			     Sai Sri Harsha Atmakuri                                  */
+/*			     Sathwik Reddy Madireddy                                  */ 
+/*           Amrutha Regalla                                          */
+/**********************************************************************/
+
 module rptr_empty(
    rinc, rclk, rrst_n,
    rq2_wptr,
