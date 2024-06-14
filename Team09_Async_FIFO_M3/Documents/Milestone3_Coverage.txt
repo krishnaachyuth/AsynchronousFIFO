@@ -1,0 +1,684 @@
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Errors: 0, Warnings: 1
+# QuestaSim-64 vlog 2023.3 Compiler 2023.07 Jul 17 2023
+# Start time: 23:59:48 on May 14,2024
+# vlog -reportprogress 300 FIFO_package.sv 
+# -- Compiling package fifo_pkg
+# 
+# Top level modules:
+# 	--none--
+# End time: 23:59:48 on May 14,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# QuestaSim-64 vlog 2023.3 Compiler 2023.07 Jul 17 2023
+# Start time: 23:59:48 on May 14,2024
+# vlog -reportprogress 300 fifo_memory.sv 
+# -- Compiling module fifomem
+# 
+# Top level modules:
+# 	fifomem
+# End time: 23:59:49 on May 14,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# QuestaSim-64 vlog 2023.3 Compiler 2023.07 Jul 17 2023
+# Start time: 23:59:49 on May 14,2024
+# vlog -reportprogress 300 r_pointer_epty.sv 
+# -- Compiling module rptr_empty
+# 
+# Top level modules:
+# 	rptr_empty
+# End time: 23:59:49 on May 14,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# QuestaSim-64 vlog 2023.3 Compiler 2023.07 Jul 17 2023
+# Start time: 23:59:49 on May 14,2024
+# vlog -reportprogress 300 sync_r2w.sv 
+# -- Compiling module sync_r2w
+# 
+# Top level modules:
+# 	sync_r2w
+# End time: 23:59:49 on May 14,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# QuestaSim-64 vlog 2023.3 Compiler 2023.07 Jul 17 2023
+# Start time: 23:59:49 on May 14,2024
+# vlog -reportprogress 300 syncw2r.sv 
+# -- Compiling module sync_w2r
+# 
+# Top level modules:
+# 	sync_w2r
+# End time: 23:59:50 on May 14,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# QuestaSim-64 vlog 2023.3 Compiler 2023.07 Jul 17 2023
+# Start time: 23:59:50 on May 14,2024
+# vlog -reportprogress 300 w_ptr_wfull.sv 
+# -- Compiling module wptr_full
+# 
+# Top level modules:
+# 	wptr_full
+# End time: 23:59:50 on May 14,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# QuestaSim-64 vlog 2023.3 Compiler 2023.07 Jul 17 2023
+# Start time: 23:59:50 on May 14,2024
+# vlog -reportprogress 300 testbench.sv 
+# -- Compiling interface intf
+# -- Compiling package testbench_sv_unit
+# -- Importing package fifo_pkg
+# -- Compiling program test
+# -- Compiling module tb_top
+# 
+# Top level modules:
+# 	tb_top
+# End time: 23:59:50 on May 14,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# QuestaSim-64 vlog 2023.3 Compiler 2023.07 Jul 17 2023
+# Start time: 23:59:50 on May 14,2024
+# vlog -reportprogress 300 top.sv 
+# -- Compiling module async_fifo1
+# 
+# Top level modules:
+# 	async_fifo1
+# End time: 23:59:51 on May 14,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# QuestaSim-64 vlog 2023.3 Compiler 2023.07 Jul 17 2023
+# Start time: 23:59:51 on May 14,2024
+# vlog -reportprogress 300 transaction.sv 
+# -- Compiling package transaction_sv_unit
+# 
+# Top level modules:
+# 	--none--
+# End time: 23:59:51 on May 14,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# QuestaSim-64 vlog 2023.3 Compiler 2023.07 Jul 17 2023
+# Start time: 23:59:51 on May 14,2024
+# vlog -reportprogress 300 interface.sv 
+# -- Compiling interface intf
+# 
+# Top level modules:
+# 	--none--
+# End time: 23:59:51 on May 14,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# QuestaSim-64 vlog 2023.3 Compiler 2023.07 Jul 17 2023
+# Start time: 23:59:51 on May 14,2024
+# vlog -reportprogress 300 scoreboard.sv 
+# -- Compiling package scoreboard_sv_unit
+# -- Importing package fifo_pkg
+# 
+# Top level modules:
+# 	--none--
+# End time: 23:59:51 on May 14,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# QuestaSim-64 vlog 2023.3 Compiler 2023.07 Jul 17 2023
+# Start time: 23:59:51 on May 14,2024
+# vlog -reportprogress 300 monitor.sv 
+# -- Compiling package monitor_sv_unit
+# -- Importing package fifo_pkg
+# 
+# Top level modules:
+# 	--none--
+# End time: 23:59:52 on May 14,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# QuestaSim-64 vlog 2023.3 Compiler 2023.07 Jul 17 2023
+# Start time: 23:59:52 on May 14,2024
+# vlog -reportprogress 300 gen.sv 
+# -- Compiling package gen_sv_unit
+# -- Importing package fifo_pkg
+# 
+# Top level modules:
+# 	--none--
+# End time: 23:59:52 on May 14,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# QuestaSim-64 vlog 2023.3 Compiler 2023.07 Jul 17 2023
+# Start time: 23:59:52 on May 14,2024
+# vlog -reportprogress 300 drive.sv 
+# -- Compiling package drive_sv_unit
+# -- Importing package fifo_pkg
+# 
+# Top level modules:
+# 	--none--
+# End time: 23:59:53 on May 14,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# QuestaSim-64 vlog 2023.3 Compiler 2023.07 Jul 17 2023
+# Start time: 23:59:53 on May 14,2024
+# vlog -reportprogress 300 environment.sv 
+# -- Compiling package environment_sv_unit
+# -- Importing package fifo_pkg
+# 
+# Top level modules:
+# 	--none--
+# End time: 23:59:53 on May 14,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# QuestaSim-64 vlog 2023.3 Compiler 2023.07 Jul 17 2023
+# Start time: 23:59:53 on May 14,2024
+# vlog -reportprogress 300 fifotest.sv 
+# -- Compiling package fifotest_sv_unit
+# -- Importing package fifo_pkg
+# -- Compiling program test
+# 
+# Top level modules:
+# 	test
+# End time: 23:59:53 on May 14,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# QuestaSim-64 vlog 2023.3 Compiler 2023.07 Jul 17 2023
+# Start time: 23:59:53 on May 14,2024
+# vlog -reportprogress 300 testbench.sv 
+# -- Compiling interface intf
+# -- Compiling package testbench_sv_unit
+# -- Importing package fifo_pkg
+# -- Compiling program test
+# -- Compiling module tb_top
+# 
+# Top level modules:
+# 	tb_top
+# End time: 23:59:54 on May 14,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# End time: 23:59:54 on May 14,2024, Elapsed time: 0:00:36
+# Errors: 0, Warnings: 0
+# vsim -c tb_top -gADDRSIZE=456 
+# Start time: 23:59:54 on May 14,2024
+# ** Note: (vsim-3812) Design is being optimized...
+# Loading sv_std.std
+# Loading work.intf(fast)
+# Loading work.fifo_pkg(fast)
+# Loading work.testbench_sv_unit(fast)
+# Loading work.tb_top(fast)
+# Loading work.test(fast)
+# End time: 00:00:04 on May 15,2024, Elapsed time: 0:00:10
+# Errors: 0, Warnings: 0
+# vsim work.tb_top 
+# Start time: 00:00:04 on May 15,2024
+# ** Note: (vsim-3812) Design is being optimized...
+# Loading sv_std.std
+# Loading work.intf(fast)
+# Loading work.fifo_pkg(fast)
+# Loading work.testbench_sv_unit(fast)
+# Loading work.tb_top(fast)
+# Loading work.test(fast)
+# End time: 00:00:13 on May 15,2024, Elapsed time: 0:00:09
+# Errors: 0, Warnings: 0
+# vsim -voptargs="+acc" work.tb_top 
+# Start time: 00:00:13 on May 15,2024
+# ** Note: (vsim-3812) Design is being optimized...
+# ** Warning: (vopt-10587) Some optimizations are turned off because the +acc switch is in effect. This will cause your simulation to run slowly. Please use -access/-debug to maintain needed visibility.
+# ** Note: (vsim-12126) Error and warning message counts have been restored: Errors=0, Warnings=1.
+# Loading sv_std.std
+# Loading work.intf(fast)
+# Loading work.fifo_pkg(fast)
+# Loading work.testbench_sv_unit(fast)
+# Loading work.tb_top(fast)
+# Loading work.intf(fast__2)
+# Loading work.test(fast)
+# Loading work.async_fifo1(fast)
+# Loading work.sync_r2w(fast)
+# Loading work.sync_w2r(fast)
+# Loading work.fifomem(fast)
+# Loading work.rptr_empty(fast)
+# Loading work.wptr_full(fast)
+# End time: 00:00:22 on May 15,2024, Elapsed time: 0:00:09
+# Errors: 0, Warnings: 1
+# vsim -coverage tb_top -voptargs=""+cover=bcesfx"" 
+# Start time: 00:00:22 on May 15,2024
+# ** Note: (vsim-3812) Design is being optimized...
+# Loading sv_std.std
+# Loading work.intf(fast)
+# Loading work.fifo_pkg(fast)
+# Loading work.testbench_sv_unit(fast)
+# Loading work.tb_top(fast)
+# Loading work.test(fast)
+# TEST START
+# [TB DRIVER]Driver Reset Initiated
+# [TB DRIVER]Driver Reset is Complete
+# [TB ENVIRONMENT] Number of Write Bursts and read bursts requested are 5 & 5 respectively 
+# [TB ENVIRONMENT] DRIVE INITIATED
+# [TB ENVIRONMENT] MONITOR INITIATED
+# [TB ENVIRONMENT] SCOREBOARD INITIATED
+# [TB DRIVER]Write transaction count= 1
+# [TB MONITOR]	 Monitor winc = 1 	 wData = e4 	 w_count=1
+# [TB SCOREBOARD]	 Scoreboard write enable = 1 	 wData = e4
+# [TB SCOREBOARD] 	 Scoreboard Data pushed back into FIFO: wData = e4 	
+# [TB DRIVER]Write transaction count= 2
+# [TB MONITOR]	 Monitor winc = 1 	 wData = 77 	 w_count=2
+# [TB SCOREBOARD]	 Scoreboard write enable = 1 	 wData = 77
+# [TB SCOREBOARD] 	 Scoreboard Data pushed back into FIFO: wData = 77 	
+# [TB DRIVER]Write transaction count= 3
+# [TB MONITOR]	 Monitor winc = 1 	 wData = 5a 	 w_count=3
+# [TB SCOREBOARD]	 Scoreboard write enable = 1 	 wData = 5a
+# [TB SCOREBOARD] 	 Scoreboard Data pushed back into FIFO: wData = 5a 	
+# [TB DRIVER]Write transaction count= 4
+# [TB MONITOR]	 Monitor winc = 1 	 wData = c0 	 w_count=4
+# [TB SCOREBOARD]	 Scoreboard write enable = 1 	 wData = c0
+# [TB SCOREBOARD] 	 Scoreboard Data pushed back into FIFO: wData = c0 	
+# [TB DRIVER]Write transaction count= 5
+# [TB MONITOR]	 Monitor winc = 1 	 wData = 5d 	 w_count=5
+# [TB SCOREBOARD]	 Scoreboard write enable = 1 	 wData = 5d
+# [TB SCOREBOARD] 	 Scoreboard Data pushed back into FIFO: wData = 5d 	
+# [TB DRIVER]Read transaction count= 1
+# [TB MONITOR] 	 Monitor rinc = 1 	 rData = e4 	 rcount=1
+# [TB SCOREBOARD] 	 Scoreboard read push: rData = e4 	
+# [TB DRIVER]Read transaction count= 2
+# [TB MONITOR] 	 Monitor rinc = 1 	 rData = 77 	 rcount=2
+# [TB SCOREBOARD] 	 Scoreboard read push: rData = 77 	
+# [TB DRIVER]Read transaction count= 3
+# [TB MONITOR] 	 Monitor rinc = 1 	 rData = 5a 	 rcount=3
+# [TB SCOREBOARD] 	 Scoreboard read push: rData = 5a 	
+# [TB DRIVER]Read transaction count= 4
+# [TB MONITOR] 	 Monitor rinc = 1 	 rData = c0 	 rcount=4
+# [TB SCOREBOARD] 	 Scoreboard read push: rData = c0 	
+# [TB DRIVER]Read transaction count= 5
+# [TB MONITOR] 	 Monitor rinc = 1 	 rData = 5d 	 rcount=5
+# [TB SCOREBOARD] 	 Scoreboard read push: rData = 5d 	
+# Checking DUT output values
+# [TB SCOREBOARD] Expected written data = e4, Actual read data = e4
+# [TB SCOREBOARD] Expected written data = 77, Actual read data = 77
+# [TB SCOREBOARD] Expected written data = 5a, Actual read data = 5a
+# [TB SCOREBOARD] Expected written data = c0, Actual read data = c0
+# [TB SCOREBOARD] Expected written data = 5d, Actual read data = 5d
+# FIFO is not Full
+# FIFO Empty
+# DUT Check accomplished
+# TEST FINISH
+# ** Note: $finish    : fifotest.sv(27)
+#    Time: 1960 ns  Iteration: 1  Instance: /tb_top/t1
+# 1
+# Break in Module test at fifotest.sv line 27
+coverage report -codeAll
+# Coverage Report Summary Data by instance
+# 
+# =================================================================================
+# === Instance: /tb_top/in
+# === Design Unit: work.intf
+# =================================================================================
+#     Enabled Coverage              Bins      Hits    Misses  Coverage
+#     ----------------              ----      ----    ------  --------
+#     Toggles                         68        41        27    60.29%
+# 
+# =================================================================================
+# === Instance: /tb_top/t1
+# === Design Unit: work.test
+# =================================================================================
+#     Enabled Coverage              Bins      Hits    Misses  Coverage
+#     ----------------              ----      ----    ------  --------
+#     Statements                      15        15         0   100.00%
+#     Toggles                         72         0        72     0.00%
+# 
+# =================================================================================
+# === Instance: /tb_top/DUT/sync_r2w
+# === Design Unit: work.sync_r2w
+# =================================================================================
+#     Enabled Coverage              Bins      Hits    Misses  Coverage
+#     ----------------              ----      ----    ------  --------
+#     Branches                         2         2         0   100.00%
+#     Statements                       3         3         0   100.00%
+#     Toggles                         44        12        32    27.27%
+# 
+# =================================================================================
+# === Instance: /tb_top/DUT/sync_w2r
+# === Design Unit: work.sync_w2r
+# =================================================================================
+#     Enabled Coverage              Bins      Hits    Misses  Coverage
+#     ----------------              ----      ----    ------  --------
+#     Branches                         2         2         0   100.00%
+#     Statements                       3         3         0   100.00%
+#     Toggles                         60         8        52    13.33%
+# 
+# =================================================================================
+# === Instance: /tb_top/DUT/fifomem
+# === Design Unit: work.fifomem
+# =================================================================================
+#     Enabled Coverage              Bins      Hits    Misses  Coverage
+#     ----------------              ----      ----    ------  --------
+#     Branches                         4         4         0   100.00%
+#     Conditions                       4         2         2    50.00%
+#     Statements                       4         4         0   100.00%
+#     Toggles                         24        13        11    54.16%
+# 
+# =================================================================================
+# === Instance: /tb_top/DUT/rptr_empty
+# === Design Unit: work.rptr_empty
+# =================================================================================
+#     Enabled Coverage              Bins      Hits    Misses  Coverage
+#     ----------------              ----      ----    ------  --------
+#     Branches                         4         4         0   100.00%
+#     Expressions                      1         1         0   100.00%
+#     Statements                      10        10         0   100.00%
+#     Toggles                         84        30        54    35.71%
+# 
+# =================================================================================
+# === Instance: /tb_top/DUT/wptr_full
+# === Design Unit: work.wptr_full
+# =================================================================================
+#     Enabled Coverage              Bins      Hits    Misses  Coverage
+#     ----------------              ----      ----    ------  --------
+#     Branches                         4         4         0   100.00%
+#     Expressions                      1         0         1     0.00%
+#     Statements                      10        10         0   100.00%
+#     Toggles                         92        26        66    28.26%
+# 
+# =================================================================================
+# === Instance: /tb_top/DUT
+# === Design Unit: work.async_fifo1
+# =================================================================================
+#     Enabled Coverage              Bins      Hits    Misses  Coverage
+#     ----------------              ----      ----    ------  --------
+#     Toggles                        152        51       101    33.55%
+# 
+# =================================================================================
+# === Instance: /tb_top
+# === Design Unit: work.tb_top
+# =================================================================================
+#     Enabled Coverage              Bins      Hits    Misses  Coverage
+#     ----------------              ----      ----    ------  --------
+#     Statements                      17        17         0   100.00%
+#     Toggles                          8         6         2    75.00%
+# 
+# =================================================================================
+# === Instance: /fifo_pkg
+# === Design Unit: work.fifo_pkg
+# =================================================================================
+#     Enabled Coverage              Bins      Hits    Misses  Coverage
+#     ----------------              ----      ----    ------  --------
+#     Branches                        18        11         7    61.11%
+#     Conditions                       1         0         1     0.00%
+#     Statements                     123       117         6    95.12%
+# 
+# =================================================================================
+# === Instance: /testbench_sv_unit
+# === Design Unit: work.testbench_sv_unit
+# =================================================================================
+#     Enabled Coverage              Bins      Hits    Misses  Coverage
+#     ----------------              ----      ----    ------  --------
+#     Statements                      23        23         0   100.00%
+# 
+# 
+# Total Coverage By Instance (filtered view): 59.49%
+# 
+# 
+coverage report -assert -binrhs -details -cvg
+# Coverage Report by instance with details
+# 
+# =================================================================================
+# === Instance: /tb_top
+# === Design Unit: work.tb_top
+# =================================================================================
+# 
+# Covergroup Coverage:
+#     Covergroups                      1        na        na    69.44%
+#         Coverpoints/Crosses         12        na        na        na
+#             Covergroup Bins         26        18         8    69.23%
+# -----------------------------------------------------------------------------------------------------------------------------------
+# Covergroup                                         RHS                           Metric       Goal       Bins    Status               
+#                                                                                                                                    
+# -----------------------------------------------------------------------------------------------------------------------------------
+#  TYPE /tb_top/FIFO_coverage                                                      69.44%        100          -    Uncovered            
+#     covered/total bins:                                                              18         26          -                      
+#     missing/total bins:                                                               8         26          -                      
+#     % Hit:                                                                       69.23%        100          -                      
+#     Coverpoint #coverpoint__0#                                                   50.00%        100          -    Uncovered            
+#         covered/total bins:                                                           1          2          -                      
+#         missing/total bins:                                                           1          2          -                      
+#         % Hit:                                                                   50.00%        100          -                      
+#     Coverpoint #coverpoint__1#                                                    0.00%        100          -    ZERO                 
+#         covered/total bins:                                                           0          2          -                      
+#         missing/total bins:                                                           2          2          -                      
+#         % Hit:                                                                    0.00%        100          -                      
+#     Coverpoint rEmpty                                                           100.00%        100          -    Covered              
+#         covered/total bins:                                                           2          2          -                      
+#         missing/total bins:                                                           0          2          -                      
+#         % Hit:                                                                  100.00%        100          -                      
+#     Coverpoint wFull                                                             50.00%        100          -    Uncovered            
+#         covered/total bins:                                                           1          2          -                      
+#         missing/total bins:                                                           1          2          -                      
+#         % Hit:                                                                   50.00%        100          -                      
+#     Coverpoint wclk                                                             100.00%        100          -    Covered              
+#         covered/total bins:                                                           2          2          -                      
+#         missing/total bins:                                                           0          2          -                      
+#         % Hit:                                                                  100.00%        100          -                      
+#     Coverpoint rclk                                                             100.00%        100          -    Covered              
+#         covered/total bins:                                                           2          2          -                      
+#         missing/total bins:                                                           0          2          -                      
+#         % Hit:                                                                  100.00%        100          -                      
+#     Coverpoint wrst_n                                                            50.00%        100          -    Uncovered            
+#         covered/total bins:                                                           1          2          -                      
+#         missing/total bins:                                                           1          2          -                      
+#         % Hit:                                                                   50.00%        100          -                      
+#     Coverpoint rrst_n                                                            50.00%        100          -    Uncovered            
+#         covered/total bins:                                                           1          2          -                      
+#         missing/total bins:                                                           1          2          -                      
+#         % Hit:                                                                   50.00%        100          -                      
+#     Coverpoint #coverpoint__2#                                                  100.00%        100          -    Covered              
+#         covered/total bins:                                                           2          2          -                      
+#         missing/total bins:                                                           0          2          -                      
+#         % Hit:                                                                  100.00%        100          -                      
+#     Coverpoint #coverpoint__3#                                                  100.00%        100          -    Covered              
+#         covered/total bins:                                                           2          2          -                      
+#         missing/total bins:                                                           0          2          -                      
+#         % Hit:                                                                  100.00%        100          -                      
+#     Cross #cross__0#                                                             66.66%        100          -    Uncovered            
+#         covered/total bins:                                                           2          3          -                      
+#         missing/total bins:                                                           1          3          -                      
+#         % Hit:                                                                   66.66%        100          -                      
+#     Cross #cross__1#                                                             66.66%        100          -    Uncovered            
+#         covered/total bins:                                                           2          3          -                      
+#         missing/total bins:                                                           1          3          -                      
+#         % Hit:                                                                   66.66%        100          -                      
+#  Covergroup instance \/tb_top/FIFO_c                                             69.44%        100          -    Uncovered            
+#     covered/total bins:                                                              18         26          -                      
+#     missing/total bins:                                                               8         26          -                      
+#     % Hit:                                                                       69.23%        100          -                      
+#     Coverpoint #coverpoint__0#                                                   50.00%        100          -    Uncovered            
+#         covered/total bins:                                                           1          2          -                      
+#         missing/total bins:                                                           1          2          -                      
+#         % Hit:                                                                   50.00%        100          -                      
+#         bin data_bin[0]                            0                                132          1          -    Covered              
+#         bin data_bin[255]                          255                                0          1          -    ZERO                 
+#     Coverpoint #coverpoint__1#                                                    0.00%        100          -    ZERO                 
+#         covered/total bins:                                                           0          2          -                      
+#         missing/total bins:                                                           2          2          -                      
+#         % Hit:                                                                    0.00%        100          -                      
+#         bin data_bin[0]                            0                                  0          1          -    ZERO                 
+#         bin data_bin[255]                          255                                0          1          -    ZERO                 
+#     Coverpoint rEmpty                                                           100.00%        100          -    Covered              
+#         covered/total bins:                                                           2          2          -                      
+#         missing/total bins:                                                           0          2          -                      
+#         % Hit:                                                                  100.00%        100          -                      
+#         bin empty_bin[0]                           0                                109          1          -    Covered              
+#         bin empty_bin[1]                           1                                 34          1          -    Covered              
+#     Coverpoint wFull                                                             50.00%        100          -    Uncovered            
+#         covered/total bins:                                                           1          2          -                      
+#         missing/total bins:                                                           1          2          -                      
+#         % Hit:                                                                   50.00%        100          -                      
+#         bin full_bin[0]                            0                                143          1          -    Covered              
+#         bin full_bin[1]                            1                                  0          1          -    ZERO                 
+#     Coverpoint wclk                                                             100.00%        100          -    Covered              
+#         covered/total bins:                                                           2          2          -                      
+#         missing/total bins:                                                           0          2          -                      
+#         % Hit:                                                                  100.00%        100          -                      
+#         bin auto[0]                                0                                 10          1          -    Covered              
+#         bin auto[1]                                1                                133          1          -    Covered              
+#     Coverpoint rclk                                                             100.00%        100          -    Covered              
+#         covered/total bins:                                                           2          2          -                      
+#         missing/total bins:                                                           0          2          -                      
+#         % Hit:                                                                  100.00%        100          -                      
+#         bin auto[0]                                0                                 65          1          -    Covered              
+#         bin auto[1]                                1                                 78          1          -    Covered              
+#     Coverpoint wrst_n                                                            50.00%        100          -    Uncovered            
+#         covered/total bins:                                                           1          2          -                      
+#         missing/total bins:                                                           1          2          -                      
+#         % Hit:                                                                   50.00%        100          -                      
+#         bin auto[0]                                0                                  0          1          -    ZERO                 
+#         bin auto[1]                                1                                143          1          -    Covered              
+#     Coverpoint rrst_n                                                            50.00%        100          -    Uncovered            
+#         covered/total bins:                                                           1          2          -                      
+#         missing/total bins:                                                           1          2          -                      
+#         % Hit:                                                                   50.00%        100          -                      
+#         bin auto[0]                                0                                  0          1          -    ZERO                 
+#         bin auto[1]                                1                                143          1          -    Covered              
+#     Coverpoint #coverpoint__2#                                                  100.00%        100          -    Covered              
+#         covered/total bins:                                                           2          2          -                      
+#         missing/total bins:                                                           0          2          -                      
+#         % Hit:                                                                  100.00%        100          -                      
+#         bin auto[0]                                0                                132          1          -    Covered              
+#         bin auto[1]                                1                                 11          1          -    Covered              
+#     Coverpoint #coverpoint__3#                                                  100.00%        100          -    Covered              
+#         covered/total bins:                                                           2          2          -                      
+#         missing/total bins:                                                           0          2          -                      
+#         % Hit:                                                                  100.00%        100          -                      
+#         bin auto[0]                                0                                 70          1          -    Covered              
+#         bin auto[1]                                1                                 73          1          -    Covered              
+#     Cross #cross__0#                                                             66.66%        100          -    Uncovered            
+#         covered/total bins:                                                           2          3          -                      
+#         missing/total bins:                                                           1          3          -                      
+#         % Hit:                                                                   66.66%        100          -                      
+#         Auto, Default and User Defined Bins:
+#             bin wclk_rst                           <auto[0], auto[0]>;...            10          1          -    Covered              
+#             bin <auto[1],auto[1]>                                                   133          1          -    Covered              
+#             bin <*,auto[0]>                                                           0          1          1    ZERO                 
+#     Cross #cross__1#                                                             66.66%        100          -    Uncovered            
+#         covered/total bins:                                                           2          3          -                      
+#         missing/total bins:                                                           1          3          -                      
+#         % Hit:                                                                   66.66%        100          -                      
+#         Auto, Default and User Defined Bins:
+#             bin rclk_rst                           <auto[0], auto[0]>;...            65          1          -    Covered              
+#             bin <auto[1],auto[1]>                                                    78          1          -    Covered              
+#             bin <*,auto[0]>                                                           0          1          1    ZERO                 
+# 
+# COVERGROUP COVERAGE:
+# -----------------------------------------------------------------------------------------------------------------------------------
+# Covergroup                                         RHS                           Metric       Goal       Bins    Status               
+#                                                                                                                                    
+# -----------------------------------------------------------------------------------------------------------------------------------
+#  TYPE /tb_top/FIFO_coverage                                                      69.44%        100          -    Uncovered            
+#     covered/total bins:                                                              18         26          -                      
+#     missing/total bins:                                                               8         26          -                      
+#     % Hit:                                                                       69.23%        100          -                      
+#     Coverpoint #coverpoint__0#                                                   50.00%        100          -    Uncovered            
+#         covered/total bins:                                                           1          2          -                      
+#         missing/total bins:                                                           1          2          -                      
+#         % Hit:                                                                   50.00%        100          -                      
+#     Coverpoint #coverpoint__1#                                                    0.00%        100          -    ZERO                 
+#         covered/total bins:                                                           0          2          -                      
+#         missing/total bins:                                                           2          2          -                      
+#         % Hit:                                                                    0.00%        100          -                      
+#     Coverpoint rEmpty                                                           100.00%        100          -    Covered              
+#         covered/total bins:                                                           2          2          -                      
+#         missing/total bins:                                                           0          2          -                      
+#         % Hit:                                                                  100.00%        100          -                      
+#     Coverpoint wFull                                                             50.00%        100          -    Uncovered            
+#         covered/total bins:                                                           1          2          -                      
+#         missing/total bins:                                                           1          2          -                      
+#         % Hit:                                                                   50.00%        100          -                      
+#     Coverpoint wclk                                                             100.00%        100          -    Covered              
+#         covered/total bins:                                                           2          2          -                      
+#         missing/total bins:                                                           0          2          -                      
+#         % Hit:                                                                  100.00%        100          -                      
+#     Coverpoint rclk                                                             100.00%        100          -    Covered              
+#         covered/total bins:                                                           2          2          -                      
+#         missing/total bins:                                                           0          2          -                      
+#         % Hit:                                                                  100.00%        100          -                      
+#     Coverpoint wrst_n                                                            50.00%        100          -    Uncovered            
+#         covered/total bins:                                                           1          2          -                      
+#         missing/total bins:                                                           1          2          -                      
+#         % Hit:                                                                   50.00%        100          -                      
+#     Coverpoint rrst_n                                                            50.00%        100          -    Uncovered            
+#         covered/total bins:                                                           1          2          -                      
+#         missing/total bins:                                                           1          2          -                      
+#         % Hit:                                                                   50.00%        100          -                      
+#     Coverpoint #coverpoint__2#                                                  100.00%        100          -    Covered              
+#         covered/total bins:                                                           2          2          -                      
+#         missing/total bins:                                                           0          2          -                      
+#         % Hit:                                                                  100.00%        100          -                      
+#     Coverpoint #coverpoint__3#                                                  100.00%        100          -    Covered              
+#         covered/total bins:                                                           2          2          -                      
+#         missing/total bins:                                                           0          2          -                      
+#         % Hit:                                                                  100.00%        100          -                      
+#     Cross #cross__0#                                                             66.66%        100          -    Uncovered            
+#         covered/total bins:                                                           2          3          -                      
+#         missing/total bins:                                                           1          3          -                      
+#         % Hit:                                                                   66.66%        100          -                      
+#     Cross #cross__1#                                                             66.66%        100          -    Uncovered            
+#         covered/total bins:                                                           2          3          -                      
+#         missing/total bins:                                                           1          3          -                      
+#         % Hit:                                                                   66.66%        100          -                      
+#  Covergroup instance \/tb_top/FIFO_c                                             69.44%        100          -    Uncovered            
+#     covered/total bins:                                                              18         26          -                      
+#     missing/total bins:                                                               8         26          -                      
+#     % Hit:                                                                       69.23%        100          -                      
+#     Coverpoint #coverpoint__0#                                                   50.00%        100          -    Uncovered            
+#         covered/total bins:                                                           1          2          -                      
+#         missing/total bins:                                                           1          2          -                      
+#         % Hit:                                                                   50.00%        100          -                      
+#         bin data_bin[0]                            0                                132          1          -    Covered              
+#         bin data_bin[255]                          255                                0          1          -    ZERO                 
+#     Coverpoint #coverpoint__1#                                                    0.00%        100          -    ZERO                 
+#         covered/total bins:                                                           0          2          -                      
+#         missing/total bins:                                                           2          2          -                      
+#         % Hit:                                                                    0.00%        100          -                      
+#         bin data_bin[0]                            0                                  0          1          -    ZERO                 
+#         bin data_bin[255]                          255                                0          1          -    ZERO                 
+#     Coverpoint rEmpty                                                           100.00%        100          -    Covered              
+#         covered/total bins:                                                           2          2          -                      
+#         missing/total bins:                                                           0          2          -                      
+#         % Hit:                                                                  100.00%        100          -                      
+#         bin empty_bin[0]                           0                                109          1          -    Covered              
+#         bin empty_bin[1]                           1                                 34          1          -    Covered              
+#     Coverpoint wFull                                                             50.00%        100          -    Uncovered            
+#         covered/total bins:                                                           1          2          -                      
+#         missing/total bins:                                                           1          2          -                      
+#         % Hit:                                                                   50.00%        100          -                      
+#         bin full_bin[0]                            0                                143          1          -    Covered              
+#         bin full_bin[1]                            1                                  0          1          -    ZERO                 
+#     Coverpoint wclk                                                             100.00%        100          -    Covered              
+#         covered/total bins:                                                           2          2          -                      
+#         missing/total bins:                                                           0          2          -                      
+#         % Hit:                                                                  100.00%        100          -                      
+#         bin auto[0]                                0                                 10          1          -    Covered              
+#         bin auto[1]                                1                                133          1          -    Covered              
+#     Coverpoint rclk                                                             100.00%        100          -    Covered              
+#         covered/total bins:                                                           2          2          -                      
+#         missing/total bins:                                                           0          2          -                      
+#         % Hit:                                                                  100.00%        100          -                      
+#         bin auto[0]                                0                                 65          1          -    Covered              
+#         bin auto[1]                                1                                 78          1          -    Covered              
+#     Coverpoint wrst_n                                                            50.00%        100          -    Uncovered            
+#         covered/total bins:                                                           1          2          -                      
+#         missing/total bins:                                                           1          2          -                      
+#         % Hit:                                                                   50.00%        100          -                      
+#         bin auto[0]                                0                                  0          1          -    ZERO                 
+#         bin auto[1]                                1                                143          1          -    Covered              
+#     Coverpoint rrst_n                                                            50.00%        100          -    Uncovered            
+#         covered/total bins:                                                           1          2          -                      
+#         missing/total bins:                                                           1          2          -                      
+#         % Hit:                                                                   50.00%        100          -                      
+#         bin auto[0]                                0                                  0          1          -    ZERO                 
+#         bin auto[1]                                1                                143          1          -    Covered              
+#     Coverpoint #coverpoint__2#                                                  100.00%        100          -    Covered              
+#         covered/total bins:                                                           2          2          -                      
+#         missing/total bins:                                                           0          2          -                      
+#         % Hit:                                                                  100.00%        100          -                      
+#         bin auto[0]                                0                                132          1          -    Covered              
+#         bin auto[1]                                1                                 11          1          -    Covered              
+#     Coverpoint #coverpoint__3#                                                  100.00%        100          -    Covered              
+#         covered/total bins:                                                           2          2          -                      
+#         missing/total bins:                                                           0          2          -                      
+#         % Hit:                                                                  100.00%        100          -                      
+#         bin auto[0]                                0                                 70          1          -    Covered              
+#         bin auto[1]                                1                                 73          1          -    Covered              
+#     Cross #cross__0#                                                             66.66%        100          -    Uncovered            
+#         covered/total bins:                                                           2          3          -                      
+#         missing/total bins:                                                           1          3          -                      
+#         % Hit:                                                                   66.66%        100          -                      
+#         Auto, Default and User Defined Bins:
+#             bin wclk_rst                           <auto[0], auto[0]>;...            10          1          -    Covered              
+#             bin <auto[1],auto[1]>                                                   133          1          -    Covered              
+#             bin <*,auto[0]>                                                           0          1          1    ZERO                 
+#     Cross #cross__1#                                                             66.66%        100          -    Uncovered            
+#         covered/total bins:                                                           2          3          -                      
+#         missing/total bins:                                                           1          3          -                      
+#         % Hit:                                                                   66.66%        100          -                      
+#         Auto, Default and User Defined Bins:
+#             bin rclk_rst                           <auto[0], auto[0]>;...            65          1          -    Covered              
+#             bin <auto[1],auto[1]>                                                    78          1          -    Covered              
+#             bin <*,auto[0]>                                                           0          1          1    ZERO                 
+# 
+# TOTAL COVERGROUP COVERAGE: 69.44%  COVERGROUP TYPES: 1
+# 
+# Total Coverage By Instance (filtered view): 69.44%
+# 
+# 

@@ -1,0 +1,511 @@
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 8210: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=119
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 8230: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=212
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 8250: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=  5
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 8270: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 44
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 8290: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=248
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 8310: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=174
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 8330: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=211
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 8350: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=182
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 8370: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=147
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 8390: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 43
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 8410: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=100
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 8430: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 91
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 8450: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 17
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 8470: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=130
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 8490: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=148
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 8510: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 24
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 8530: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 13
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 8550: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=200
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 8570: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=  7
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 8590: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 64
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 8610: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=180
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 8630: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=101
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 8650: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 61
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 8670: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 86
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 8690: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=177
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 8710: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=210
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 8730: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=232
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 8750: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 73
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 8770: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=  0
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 8790: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=137
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 8810: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 68
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 8830: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 10
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 8850: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=157
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 8870: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=245
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 8890: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=224
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 8910: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 99
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 8930: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=100
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 8950: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 47
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 8970: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=217
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 8990: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=124
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 9010: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=133
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 9030: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=219
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 9050: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=137
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 9070: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=212
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 9090: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=147
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 9110: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=154
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 9130: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=157
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 9150: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=246
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 9170: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 99
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 9190: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=208
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 9210: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 56
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 9230: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=245
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 9250: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=160
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 9270: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=210
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 9290: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=117
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 9310: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=193
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 9330: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 13
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 9350: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=162
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 9370: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=134
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 9390: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=184
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 9410: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=198
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 9430: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=251
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 9450: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=244
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 9470: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=159
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 9490: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 23
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 9510: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=216
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 9530: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 61
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 9550: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 65
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 9570: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=  4
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 9590: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=102
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 9610: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=132
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 9630: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=215
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 9650: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=113
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 9670: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=143
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 9690: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 17
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 9710: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=219
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 9730: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 83
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 9750: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=174
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 9770: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 20
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 9790: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 97
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 9810: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 25
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 9830: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=156
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 9850: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 97
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 9870: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 98
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 9890: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=135
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 9910: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=214
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 9930: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=170
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 9950: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 44
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 9970: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 22
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 9990: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 91
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 10010: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=  6
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 10030: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=120
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 10050: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=249
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 10070: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 83
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 10090: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 79
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 10110: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=118
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 10130: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=172
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 10150: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 69
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 10170: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=250
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 10190: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=223
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 10210: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=164
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 10230: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=207
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 10250: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 99
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 10270: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 39
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 10290: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=209
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 10310: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=221
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 10330: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=175
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 10350: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=200
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 10370: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 99
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 10390: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=182
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 10410: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 35
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 10430: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 68
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 10450: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=191
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 10470: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=183
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 10490: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=208
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 10510: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=188
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 10530: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=219
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 10550: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=171
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 10570: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 23
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 10590: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=172
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 10610: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=254
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 10630: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=158
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 10650: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 37
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 10670: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 21
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 10690: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=110
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 10710: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=246
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 10730: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=199
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 10750: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 84
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 10770: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=220
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 10790: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 23
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 10810: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 96
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 10830: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=  7
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 10850: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 65
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 10870: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=  9
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 10890: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=245
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 10910: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=220
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 10930: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 35
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 10950: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 65
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 10970: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=172
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 10990: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=224
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 11010: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=158
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 11030: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 25
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 11050: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=156
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 11070: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=221
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 11090: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=118
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 11110: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=230
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 11130: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=166
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 11150: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=142
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 11170: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 17
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 11190: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=134
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 11210: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 83
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 11230: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=255
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 11250: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=132
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 11270: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 95
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 11290: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=149
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 11310: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 33
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 11330: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=172
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 11350: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=214
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 11370: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 58
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 11390: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=163
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 11410: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=177
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 11430: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=200
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 11450: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 55
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 11470: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 49
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 11490: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 20
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 11510: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=212
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 11530: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 74
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 11550: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 90
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 11570: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=164
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 11590: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=174
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 11610: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=142
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 11630: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 35
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 11650: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=221
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 11670: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 45
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 11690: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 62
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 11710: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 48
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 11730: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 86
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 11750: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=106
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 11770: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=145
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 11790: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 91
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 11810: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=149
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 11830: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=189
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 11850: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 97
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 11870: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 41
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 11890: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=231
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 11910: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 22
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 11930: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 33
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 11950: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=136
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 11970: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=162
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 11990: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 65
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 12010: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=224
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 12030: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 51
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 12050: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 80
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 12070: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=236
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 12090: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 26
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 12110: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=242
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 12130: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=219
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 12150: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 22
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 12170: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=252
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 12190: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 48
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 12210: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=104
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 12230: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 36
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 12250: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=222
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 12270: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 14
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 12290: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=148
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 12310: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 23
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 12330: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=209
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 12350: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 19
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 12370: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 21
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 12390: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 31
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 12410: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=114
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 12430: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=156
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 12450: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=100
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 12470: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=  4
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 12490: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=197
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 12510: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=138
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 12530: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=130
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 12550: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=226
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 12570: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=168
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 12590: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 27
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 12610: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 30
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 12630: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 17
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 12650: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 63
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 12670: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 74
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 12690: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=113
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 12710: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=243
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 12730: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=167
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 12750: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=124
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 12770: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 86
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 12790: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 34
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 12810: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=109
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 12830: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=201
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 12850: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 92
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 12870: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=245
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 12890: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=122
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 12910: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=234
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 12930: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=117
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 12950: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=211
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 12970: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=217
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 12990: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=255
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 13010: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 72
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 13030: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=242
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 13050: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=103
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 13070: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=148
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 13090: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=250
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 13110: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=  7
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 13130: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 41
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 13150: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 67
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 13170: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=124
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 13190: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=220
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 13210: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 66
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 13230: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 76
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 13250: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 26
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 13270: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 92
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 13290: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=176
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 13330: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=  0
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 13350: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 59
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 13370: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 92
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 13390: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 13
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 13410: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=117
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 13430: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 12
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 13450: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=218
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 13470: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=131
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 13490: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=203
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 13510: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 93
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 13530: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=202
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 13550: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=100
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 13570: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 86
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 13590: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 80
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 13610: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=222
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 13630: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=179
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 13650: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 39
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 13670: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 52
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 13690: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=162
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 13710: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=224
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 13730: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=119
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 13750: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 64
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 13770: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 51
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 13790: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=153
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 13810: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=219
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 13830: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=112
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 13850: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=208
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 13870: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=234
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 13890: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=250
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 13910: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 35
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 13930: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=210
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 13950: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=157
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 13970: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=229
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 13990: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 69
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 14010: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 60
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 14030: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 52
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 14050: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=140
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 14070: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=125
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 14090: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 27
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 14110: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 21
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 14130: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=242
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 14150: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 71
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 14170: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 79
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 14190: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 96
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 14210: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 16
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 14230: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=191
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 14250: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 25
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 14270: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 12
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 14290: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 26
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 14310: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 30
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 14330: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=140
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 14350: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=114
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 14370: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=156
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 14390: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 79
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 14410: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=183
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 14430: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=187
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 14450: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=212
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 14470: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=198
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 14490: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 11
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 14510: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=188
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 14530: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 47
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 14550: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=153
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 14570: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 10
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 14590: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=238
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 14610: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 24
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 14630: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=155
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 14650: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 35
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 14670: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 67
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 14690: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 12
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 14710: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=250
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 14730: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=140
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 14750: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 64
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 14770: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 30
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 14790: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=235
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 14810: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=210
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 14830: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=254
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 14850: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=164
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 14870: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=254
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 14890: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=231
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 14910: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 57
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 14930: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=217
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 14950: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 10
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 14970: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 34
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 14990: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=155
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 15010: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=  9
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 15030: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 60
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 15050: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=193
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 15070: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=224
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 15090: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=241
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 15110: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=116
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 15130: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=179
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 15150: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=174
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 15170: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 39
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 15190: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=245
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 15210: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 33
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 15230: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=156
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 15250: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 26
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 15270: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=154
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 15290: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=252
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 15310: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=188
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 15330: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=253
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 15350: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 75
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 15370: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=166
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 15390: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=127
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 15410: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 40
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 15430: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 11
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 15450: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=107
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 15470: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 18
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 15490: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=185
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 15510: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=  9
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 15530: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=172
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 15550: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=213
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 15570: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=255
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 15590: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=238
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 15610: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=192
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 15630: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=179
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 15650: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=244
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 15670: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=106
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 15690: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=185
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 15710: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 64
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 15730: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=174
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 15750: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=132
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 15770: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=118
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 15790: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 89
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 15810: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=235
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 15830: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 84
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 15850: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=254
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 15870: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=232
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 15890: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=126
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 15910: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=  9
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 15930: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 60
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 15950: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=214
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 15970: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 19
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 15990: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=178
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 16010: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=207
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 16030: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=192
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 16050: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=185
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 16070: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=139
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 16090: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 85
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 16110: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 71
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 16130: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=116
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 16150: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=101
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 16170: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=187
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 16190: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 10
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 16210: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 11
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 16230: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 49
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 16250: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=210
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 16270: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=202
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 16290: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 25
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 16310: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=218
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 16330: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=225
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 16350: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 44
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 16370: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 45
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 16390: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=133
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 16410: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 52
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 16430: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=225
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 16450: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=214
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 16470: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=103
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 16490: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=181
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 16510: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=112
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 16530: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 29
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 16550: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 18
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 16570: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 45
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 16590: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=204
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 16610: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=109
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 16630: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 65
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 16650: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=197
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 16670: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 88
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 16690: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=176
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 16710: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=193
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 16730: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=189
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 16750: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=194
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 16770: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=252
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 16790: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=185
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 16810: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 46
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 16830: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=234
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 16850: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 26
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 16870: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=199
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 16890: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=158
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 16910: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=216
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 16930: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=249
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 16950: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 25
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 16970: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 51
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 16990: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 52
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 17010: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 67
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 17030: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 65
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 17050: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=216
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 17070: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=154
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 17090: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=153
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 17110: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=138
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 17130: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=160
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 17150: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=118
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 17170: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=238
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 17190: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 54
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 17210: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 26
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 17230: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=205
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 17250: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=149
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 17270: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=204
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 17290: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=161
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 17310: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=165
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 17330: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 36
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 17350: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 79
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 17370: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=191
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 17390: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 22
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 17410: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=189
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 17430: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=195
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 17450: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 78
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 17470: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=  5
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 17490: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=210
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 17510: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=149
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 17530: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=201
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 17550: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=224
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 17570: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=136
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 17590: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 62
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 17610: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=199
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 17630: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=188
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 17650: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 93
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 17670: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=162
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 17690: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=206
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 17710: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=224
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 17730: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=172
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 17750: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=236
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 17770: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=113
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 17790: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=115
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 17810: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=234
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 17830: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=243
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 17850: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 49
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 17870: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 75
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 17890: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=209
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 17910: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=150
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 17930: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 72
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 17950: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=141
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 17970: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=125
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 17990: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=213
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 18010: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=129
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 18030: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=132
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 18050: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=221
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 18070: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=128
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 18090: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=163
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 18110: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 93
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 18130: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 97
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 18150: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 47
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 18170: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 98
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 18190: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=101
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 18210: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 68
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 18230: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=147
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 18250: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=165
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 18270: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=143
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 18290: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=205
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 18310: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=144
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 18330: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 95
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 18350: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 17
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 18370: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=208
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 18390: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data= 74
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 18410: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=163
+UVM_ERROR uvm_fifo_scoreboard.sv(70) @ 18430: uvm_test_top.env.scb [Comparing read] transaction failed actual_data=  1, expected_data=245

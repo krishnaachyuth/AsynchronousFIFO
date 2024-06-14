@@ -1,0 +1,773 @@
+do run.do
+# ** Warning: (vlib-34) Library already exists at "test1".
+# Errors: 0, Warnings: 1
+# QuestaSim-64 vmap 2023.3 Lib Mapping Utility 2023.07 Jul 17 2023
+# vmap work test1 
+# Modifying modelsim.ini
+# QuestaSim-64 vlog 2023.3 Compiler 2023.07 Jul 17 2023
+# Start time: 00:11:49 on Jun 05,2024
+# vlog -reportprogress 300 -lint -work test1 -coveropt 3 "+cover" "+acc" design_a.sv 
+# -- Compiling module FIFO
+# -- Compiling module fifomem
+# -- Compiling module sync_r2w
+# -- Compiling module sync_w2r
+# -- Compiling module rptr_empty
+# -- Compiling module wptr_full
+# 
+# Top level modules:
+# 	FIFO
+# End time: 00:11:50 on Jun 05,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# QuestaSim-64 vlog 2023.3 Compiler 2023.07 Jul 17 2023
+# Start time: 00:11:50 on Jun 05,2024
+# vlog -reportprogress 300 -lint uvm_fifo_interface.sv 
+# -- Compiling interface uvm_fifo_intf
+# 
+# Top level modules:
+# 	--none--
+# End time: 00:11:50 on Jun 05,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# QuestaSim-64 vlog 2023.3 Compiler 2023.07 Jul 17 2023
+# Start time: 00:11:50 on Jun 05,2024
+# vlog -reportprogress 300 -lint uvm_wr_packet.sv 
+# ** Note: (vlog-2286) uvm_wr_packet.sv(2): Using implicit +incdir+C:/questasim64_2023.3/uvm-1.1d/../verilog_src/uvm-1.1d/src from import uvm_pkg
+# -- Compiling package uvm_wr_packet_sv_unit
+# -- Importing package mtiUvm.uvm_pkg (uvm-1.1d Built-in)
+# 
+# Top level modules:
+# 	--none--
+# End time: 00:11:51 on Jun 05,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# QuestaSim-64 vlog 2023.3 Compiler 2023.07 Jul 17 2023
+# Start time: 00:11:51 on Jun 05,2024
+# vlog -reportprogress 300 -lint uvm_wr_sequence.sv 
+# ** Note: (vlog-2286) uvm_wr_sequence.sv(2): Using implicit +incdir+C:/questasim64_2023.3/uvm-1.1d/../verilog_src/uvm-1.1d/src from import uvm_pkg
+# -- Compiling package uvm_wr_sequence_sv_unit
+# -- Importing package mtiUvm.uvm_pkg (uvm-1.1d Built-in)
+# 
+# Top level modules:
+# 	--none--
+# End time: 00:11:52 on Jun 05,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# QuestaSim-64 vlog 2023.3 Compiler 2023.07 Jul 17 2023
+# Start time: 00:11:52 on Jun 05,2024
+# vlog -reportprogress 300 -lint uvm_wr_sequencer.sv 
+# ** Note: (vlog-2286) uvm_wr_sequencer.sv(2): Using implicit +incdir+C:/questasim64_2023.3/uvm-1.1d/../verilog_src/uvm-1.1d/src from import uvm_pkg
+# -- Compiling package uvm_wr_sequencer_sv_unit
+# -- Importing package mtiUvm.uvm_pkg (uvm-1.1d Built-in)
+# 
+# Top level modules:
+# 	--none--
+# End time: 00:11:53 on Jun 05,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# QuestaSim-64 vlog 2023.3 Compiler 2023.07 Jul 17 2023
+# Start time: 00:11:53 on Jun 05,2024
+# vlog -reportprogress 300 -lint uvm_wr_driver.sv 
+# ** Note: (vlog-2286) uvm_wr_driver.sv(2): Using implicit +incdir+C:/questasim64_2023.3/uvm-1.1d/../verilog_src/uvm-1.1d/src from import uvm_pkg
+# -- Compiling package uvm_wr_driver_sv_unit
+# -- Importing package mtiUvm.uvm_pkg (uvm-1.1d Built-in)
+# -- Compiling interface uvm_fifo_intf
+# 
+# Top level modules:
+# 	--none--
+# End time: 00:11:54 on Jun 05,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# QuestaSim-64 vlog 2023.3 Compiler 2023.07 Jul 17 2023
+# Start time: 00:11:54 on Jun 05,2024
+# vlog -reportprogress 300 -lint uvm_write_monitor.sv 
+# ** Note: (vlog-2286) uvm_write_monitor.sv(2): Using implicit +incdir+C:/questasim64_2023.3/uvm-1.1d/../verilog_src/uvm-1.1d/src from import uvm_pkg
+# -- Compiling package uvm_write_monitor_sv_unit
+# -- Importing package mtiUvm.uvm_pkg (uvm-1.1d Built-in)
+# -- Compiling interface uvm_fifo_intf
+# 
+# Top level modules:
+# 	--none--
+# End time: 00:11:55 on Jun 05,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# QuestaSim-64 vlog 2023.3 Compiler 2023.07 Jul 17 2023
+# Start time: 00:11:55 on Jun 05,2024
+# vlog -reportprogress 300 -lint uvm_write_agent.sv 
+# ** Note: (vlog-2286) uvm_write_agent.sv(2): Using implicit +incdir+C:/questasim64_2023.3/uvm-1.1d/../verilog_src/uvm-1.1d/src from import uvm_pkg
+# -- Compiling package uvm_write_agent_sv_unit
+# -- Importing package mtiUvm.uvm_pkg (uvm-1.1d Built-in)
+# -- Compiling interface uvm_fifo_intf
+# 
+# Top level modules:
+# 	--none--
+# End time: 00:11:56 on Jun 05,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# QuestaSim-64 vlog 2023.3 Compiler 2023.07 Jul 17 2023
+# Start time: 00:11:56 on Jun 05,2024
+# vlog -reportprogress 300 -lint uvm_rd_packet.sv 
+# ** Note: (vlog-2286) uvm_rd_packet.sv(2): Using implicit +incdir+C:/questasim64_2023.3/uvm-1.1d/../verilog_src/uvm-1.1d/src from import uvm_pkg
+# -- Compiling package uvm_rd_packet_sv_unit
+# -- Importing package mtiUvm.uvm_pkg (uvm-1.1d Built-in)
+# 
+# Top level modules:
+# 	--none--
+# End time: 00:11:57 on Jun 05,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# QuestaSim-64 vlog 2023.3 Compiler 2023.07 Jul 17 2023
+# Start time: 00:11:57 on Jun 05,2024
+# vlog -reportprogress 300 -lint uvm_rd_sequence.sv 
+# ** Note: (vlog-2286) uvm_rd_sequence.sv(2): Using implicit +incdir+C:/questasim64_2023.3/uvm-1.1d/../verilog_src/uvm-1.1d/src from import uvm_pkg
+# -- Compiling package uvm_rd_sequence_sv_unit
+# -- Importing package mtiUvm.uvm_pkg (uvm-1.1d Built-in)
+# 
+# Top level modules:
+# 	--none--
+# End time: 00:11:58 on Jun 05,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# QuestaSim-64 vlog 2023.3 Compiler 2023.07 Jul 17 2023
+# Start time: 00:11:58 on Jun 05,2024
+# vlog -reportprogress 300 -lint uvm_rd_sequencer.sv 
+# ** Note: (vlog-2286) uvm_rd_sequencer.sv(2): Using implicit +incdir+C:/questasim64_2023.3/uvm-1.1d/../verilog_src/uvm-1.1d/src from import uvm_pkg
+# -- Compiling package uvm_rd_sequencer_sv_unit
+# -- Importing package mtiUvm.uvm_pkg (uvm-1.1d Built-in)
+# 
+# Top level modules:
+# 	--none--
+# End time: 00:11:59 on Jun 05,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# QuestaSim-64 vlog 2023.3 Compiler 2023.07 Jul 17 2023
+# Start time: 00:11:59 on Jun 05,2024
+# vlog -reportprogress 300 -lint uvm_rd_driver.sv 
+# ** Note: (vlog-2286) uvm_rd_driver.sv(2): Using implicit +incdir+C:/questasim64_2023.3/uvm-1.1d/../verilog_src/uvm-1.1d/src from import uvm_pkg
+# -- Compiling package uvm_rd_driver_sv_unit
+# -- Importing package mtiUvm.uvm_pkg (uvm-1.1d Built-in)
+# -- Compiling interface uvm_fifo_intf
+# 
+# Top level modules:
+# 	--none--
+# End time: 00:12:00 on Jun 05,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# QuestaSim-64 vlog 2023.3 Compiler 2023.07 Jul 17 2023
+# Start time: 00:12:00 on Jun 05,2024
+# vlog -reportprogress 300 -lint uvm_rd_monitor.sv 
+# ** Note: (vlog-2286) uvm_rd_monitor.sv(2): Using implicit +incdir+C:/questasim64_2023.3/uvm-1.1d/../verilog_src/uvm-1.1d/src from import uvm_pkg
+# -- Compiling package uvm_rd_monitor_sv_unit
+# -- Importing package mtiUvm.uvm_pkg (uvm-1.1d Built-in)
+# -- Compiling interface uvm_fifo_intf
+# 
+# Top level modules:
+# 	--none--
+# End time: 00:12:01 on Jun 05,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# QuestaSim-64 vlog 2023.3 Compiler 2023.07 Jul 17 2023
+# Start time: 00:12:01 on Jun 05,2024
+# vlog -reportprogress 300 -lint uvm_rd_agent.sv 
+# ** Note: (vlog-2286) uvm_rd_agent.sv(2): Using implicit +incdir+C:/questasim64_2023.3/uvm-1.1d/../verilog_src/uvm-1.1d/src from import uvm_pkg
+# -- Compiling package uvm_rd_agent_sv_unit
+# -- Importing package mtiUvm.uvm_pkg (uvm-1.1d Built-in)
+# -- Compiling interface uvm_fifo_intf
+# 
+# Top level modules:
+# 	--none--
+# End time: 00:12:02 on Jun 05,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# QuestaSim-64 vlog 2023.3 Compiler 2023.07 Jul 17 2023
+# Start time: 00:12:02 on Jun 05,2024
+# vlog -reportprogress 300 -lint uvm_scoreboard.sv 
+# ** Note: (vlog-2286) uvm_scoreboard.sv(2): Using implicit +incdir+C:/questasim64_2023.3/uvm-1.1d/../verilog_src/uvm-1.1d/src from import uvm_pkg
+# -- Compiling interface uvm_fifo_intf
+# ** Warning: ** while parsing file included at uvm_scoreboard.sv(4)
+# ** while parsing file included at uvm_rd_agent.sv(3)
+# ** while parsing file included at uvm_rd_monitor.sv(3)
+# ** while parsing file included at uvm_rd_driver.sv(3)
+# ** at uvm_fifo_interface.sv(1): (vlog-2275) Existing interface 'uvm_fifo_intf' at line 1 will be overwritten.
+# -- Compiling package uvm_scoreboard_sv_unit
+# -- Importing package mtiUvm.uvm_pkg (uvm-1.1d Built-in)
+# -- Compiling interface uvm_fifo_intf
+# 
+# Top level modules:
+# 	--none--
+# End time: 00:12:02 on Jun 05,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 1
+# QuestaSim-64 vlog 2023.3 Compiler 2023.07 Jul 17 2023
+# Start time: 00:12:03 on Jun 05,2024
+# vlog -reportprogress 300 -lint -work test1 -coveropt 3 "+cover" "+acc" UVM_fifo_wr_cvg.sv 
+# ** Note: (vlog-2286) UVM_fifo_wr_cvg.sv(2): Using implicit +incdir+C:/questasim64_2023.3/uvm-1.1d/../verilog_src/uvm-1.1d/src from import uvm_pkg
+# -- Compiling interface uvm_fifo_intf
+# ** Warning: ** while parsing file included at UVM_fifo_wr_cvg.sv(3)
+# ** while parsing file included at uvm_scoreboard.sv(4)
+# ** while parsing file included at uvm_rd_agent.sv(3)
+# ** while parsing file included at uvm_rd_monitor.sv(3)
+# ** while parsing file included at uvm_rd_driver.sv(3)
+# ** at uvm_fifo_interface.sv(1): (vlog-2275) Existing interface 'uvm_fifo_intf' at line 1 will be overwritten.
+# -- Compiling package UVM_fifo_wr_cvg_sv_unit
+# -- Importing package mtiUvm.uvm_pkg (uvm-1.1d Built-in)
+# -- Compiling interface uvm_fifo_intf
+# 
+# Top level modules:
+# 	--none--
+# End time: 00:12:04 on Jun 05,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 1
+# QuestaSim-64 vlog 2023.3 Compiler 2023.07 Jul 17 2023
+# Start time: 00:12:04 on Jun 05,2024
+# vlog -reportprogress 300 -lint -work test1 -coveropt 3 "+cover" "+acc" UVM_fifo_rd_cvg.sv 
+# ** Note: (vlog-2286) UVM_fifo_rd_cvg.sv(2): Using implicit +incdir+C:/questasim64_2023.3/uvm-1.1d/../verilog_src/uvm-1.1d/src from import uvm_pkg
+# -- Compiling interface uvm_fifo_intf
+# ** Warning: ** while parsing file included at UVM_fifo_rd_cvg.sv(3)
+# ** while parsing file included at UVM_fifo_wr_cvg.sv(3)
+# ** while parsing file included at uvm_scoreboard.sv(4)
+# ** while parsing file included at uvm_rd_agent.sv(3)
+# ** while parsing file included at uvm_rd_monitor.sv(3)
+# ** while parsing file included at uvm_rd_driver.sv(3)
+# ** at uvm_fifo_interface.sv(1): (vlog-2275) Existing interface 'uvm_fifo_intf' at line 1 will be overwritten.
+# -- Compiling package UVM_fifo_rd_cvg_sv_unit
+# -- Importing package mtiUvm.uvm_pkg (uvm-1.1d Built-in)
+# -- Compiling interface uvm_fifo_intf
+# 
+# Top level modules:
+# 	--none--
+# End time: 00:12:05 on Jun 05,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 1
+# QuestaSim-64 vlog 2023.3 Compiler 2023.07 Jul 17 2023
+# Start time: 00:12:05 on Jun 05,2024
+# vlog -reportprogress 300 -lint -work test1 -coveropt 3 "+cover" "+acc" uvm_environment.sv 
+# ** Note: (vlog-2286) uvm_environment.sv(2): Using implicit +incdir+C:/questasim64_2023.3/uvm-1.1d/../verilog_src/uvm-1.1d/src from import uvm_pkg
+# -- Compiling interface uvm_fifo_intf
+# ** Warning: ** while parsing file included at uvm_environment.sv(4)
+# ** while parsing file included at UVM_fifo_rd_cvg.sv(3)
+# ** while parsing file included at UVM_fifo_wr_cvg.sv(3)
+# ** while parsing file included at uvm_scoreboard.sv(4)
+# ** while parsing file included at uvm_rd_agent.sv(3)
+# ** while parsing file included at uvm_rd_monitor.sv(3)
+# ** while parsing file included at uvm_rd_driver.sv(3)
+# ** at uvm_fifo_interface.sv(1): (vlog-2275) Existing interface 'uvm_fifo_intf' at line 1 will be overwritten.
+# -- Compiling package uvm_environment_sv_unit
+# -- Importing package mtiUvm.uvm_pkg (uvm-1.1d Built-in)
+# -- Compiling interface uvm_fifo_intf
+# 
+# Top level modules:
+# 	--none--
+# End time: 00:12:07 on Jun 05,2024, Elapsed time: 0:00:02
+# Errors: 0, Warnings: 1
+# QuestaSim-64 vlog 2023.3 Compiler 2023.07 Jul 17 2023
+# Start time: 00:12:07 on Jun 05,2024
+# vlog -reportprogress 300 -lint uvm_test.sv 
+# ** Note: (vlog-2286) uvm_test.sv(2): Using implicit +incdir+C:/questasim64_2023.3/uvm-1.1d/../verilog_src/uvm-1.1d/src from import uvm_pkg
+# -- Compiling interface uvm_fifo_intf
+# ** Warning: ** while parsing file included at uvm_test.sv(3)
+# ** while parsing file included at uvm_environment.sv(4)
+# ** while parsing file included at UVM_fifo_rd_cvg.sv(3)
+# ** while parsing file included at UVM_fifo_wr_cvg.sv(3)
+# ** while parsing file included at uvm_scoreboard.sv(4)
+# ** while parsing file included at uvm_rd_agent.sv(3)
+# ** while parsing file included at uvm_rd_monitor.sv(3)
+# ** while parsing file included at uvm_rd_driver.sv(3)
+# ** at uvm_fifo_interface.sv(1): (vlog-2275) Existing interface 'uvm_fifo_intf' at line 1 will be overwritten.
+# -- Compiling package uvm_test_sv_unit
+# -- Importing package mtiUvm.uvm_pkg (uvm-1.1d Built-in)
+# -- Compiling interface uvm_fifo_intf
+# 
+# Top level modules:
+# 	--none--
+# End time: 00:12:10 on Jun 05,2024, Elapsed time: 0:00:03
+# Errors: 0, Warnings: 1
+# QuestaSim-64 vlog 2023.3 Compiler 2023.07 Jul 17 2023
+# Start time: 00:12:10 on Jun 05,2024
+# vlog -reportprogress 300 -lint -work test1 -coveropt 3 "+cover" "+acc" uvm_test_top.sv 
+# ** Note: (vlog-2286) uvm_test_top.sv(2): Using implicit +incdir+C:/questasim64_2023.3/uvm-1.1d/../verilog_src/uvm-1.1d/src from import uvm_pkg
+# -- Compiling interface uvm_fifo_intf
+# ** Warning: ** while parsing file included at uvm_test_top.sv(15)
+# ** while parsing file included at uvm_test.sv(3)
+# ** while parsing file included at uvm_environment.sv(4)
+# ** while parsing file included at UVM_fifo_rd_cvg.sv(3)
+# ** while parsing file included at UVM_fifo_wr_cvg.sv(3)
+# ** while parsing file included at uvm_scoreboard.sv(4)
+# ** while parsing file included at uvm_rd_agent.sv(3)
+# ** while parsing file included at uvm_rd_monitor.sv(3)
+# ** while parsing file included at uvm_rd_driver.sv(3)
+# ** at uvm_fifo_interface.sv(1): (vlog-2275) Existing interface 'uvm_fifo_intf' at line 1 will be overwritten.
+# -- Compiling package uvm_test_top_sv_unit
+# -- Importing package mtiUvm.uvm_pkg (uvm-1.1d Built-in)
+# -- Compiling interface uvm_fifo_intf
+# -- Compiling module top
+# 
+# Top level modules:
+# 	top
+# End time: 00:12:12 on Jun 05,2024, Elapsed time: 0:00:02
+# Errors: 0, Warnings: 1
+# Saving coverage database on exit...
+# End time: 00:12:14 on Jun 05,2024, Elapsed time: 0:01:54
+# Errors: 0, Warnings: 2
+# vsim work.top 
+# Start time: 00:12:14 on Jun 05,2024
+# ** Note: (vsim-8009) Loading existing optimized design _opt
+# Loading sv_std.std
+# Loading mtiUvm.uvm_pkg(fast)
+# Loading work.uvm_test_top_sv_unit(fast)
+# Loading mtiUvm.questa_uvm_pkg(fast)
+# Loading work.top(fast)
+# Loading work.uvm_fifo_intf(fast__5)
+# Loading work.FIFO(fast)
+# Loading work.sync_r2w(fast)
+# Loading work.sync_w2r(fast)
+# Loading work.fifomem(fast)
+# Loading work.rptr_empty(fast)
+# Loading work.wptr_full(fast)
+# Loading work.uvm_fifo_intf(fast)
+# Loading C:/questasim64_2023.3/uvm-1.1d\win64\uvm_dpi.dll
+# End time: 00:12:29 on Jun 05,2024, Elapsed time: 0:00:15
+# Errors: 0, Warnings: 0
+# vsim -voptargs="+acc" work.top 
+# Start time: 00:12:29 on Jun 05,2024
+# ** Note: (vsim-8009) Loading existing optimized design _opt1
+# Loading sv_std.std
+# Loading mtiUvm.uvm_pkg(fast)
+# Loading work.uvm_test_top_sv_unit(fast)
+# Loading mtiUvm.questa_uvm_pkg(fast)
+# Loading work.top(fast)
+# Loading work.uvm_fifo_intf(fast__5)
+# Loading work.FIFO(fast)
+# Loading work.sync_r2w(fast)
+# Loading work.sync_w2r(fast)
+# Loading work.fifomem(fast)
+# Loading work.rptr_empty(fast)
+# Loading work.wptr_full(fast)
+# Loading work.uvm_fifo_intf(fast)
+# Loading C:/questasim64_2023.3/uvm-1.1d\win64\uvm_dpi.dll
+# End time: 00:12:44 on Jun 05,2024, Elapsed time: 0:00:15
+# Errors: 0, Warnings: 0
+# vsim -vopt -coverage test1.top -do "coverage save -onexit -directive -codeAll file1;" 
+# Start time: 00:12:44 on Jun 05,2024
+# ** Note: (vsim-8009) Loading existing optimized design _opt2
+# Loading sv_std.std
+# Loading mtiUvm.uvm_pkg(fast)
+# Loading work.uvm_test_top_sv_unit(fast)
+# Loading mtiUvm.questa_uvm_pkg(fast)
+# Loading work.top(fast)
+# Loading work.uvm_fifo_intf(fast__5)
+# Loading work.FIFO(fast)
+# Loading work.sync_r2w(fast)
+# Loading work.sync_w2r(fast)
+# Loading work.fifomem(fast)
+# Loading work.rptr_empty(fast)
+# Loading work.wptr_full(fast)
+# Loading work.uvm_fifo_intf(fast)
+# Loading C:/questasim64_2023.3/uvm-1.1d\win64\uvm_dpi.dll
+# coverage save -onexit -directive -codeAll file1
+# 
+# ----------------------------------------------------------------
+# UVM-1.1d
+# (C) 2007-2013 Mentor Graphics Corporation
+# (C) 2007-2013 Cadence Design Systems, Inc.
+# (C) 2006-2013 Synopsys, Inc.
+# (C) 2011-2013 Cypress Semiconductor Corp.
+# ----------------------------------------------------------------
+# 
+#   ***********       IMPORTANT RELEASE NOTES         ************
+# 
+#   You are using a version of the UVM library that has been compiled
+#   with `UVM_NO_DEPRECATED undefined.
+#   See http://www.eda.org/svdb/view.php?id=3313 for more details.
+# 
+#   You are using a version of the UVM library that has been compiled
+#   with `UVM_OBJECT_MUST_HAVE_CONSTRUCTOR undefined.
+#   See http://www.eda.org/svdb/view.php?id=3770 for more details.
+# 
+#       (Specify +UVM_NO_RELNOTES to turn off this notice)
+# 
+# UVM_INFO verilog_src/questa_uvm_pkg-1.2/src/questa_uvm_pkg.sv(277) @ 0: reporter [Questa UVM] QUESTA_UVM-1.2.3
+# UVM_INFO verilog_src/questa_uvm_pkg-1.2/src/questa_uvm_pkg.sv(278) @ 0: reporter [Questa UVM]  questa_uvm::init(+struct)
+# UVM_INFO @ 0: reporter [RNTST] Running test fifo_test...
+# UVM_INFO @ 0: reporter [UVMTOP] UVM testbench topology:
+# --------------------------------------------------------------------------
+# Name                         Type                              Size  Value
+# --------------------------------------------------------------------------
+# uvm_test_top                 fifo_test                         -     @472 
+#   env                        fifo_env                          -     @479 
+#     cvg_rd                   fifo_read_coverage                -     @526 
+#       analysis_imp           uvm_analysis_imp                  -     @533 
+#     cvg_wr                   wr_fifo_coverage                  -     @507 
+#       analysis_imp           uvm_analysis_imp                  -     @514 
+#     rd_agnt                  read_agent                        -     @493 
+#       rd_drv                 read_driver                       -     @546 
+#         rsp_port             uvm_analysis_port                 -     @561 
+#         seq_item_port        uvm_seq_item_pull_port            -     @553 
+#       rd_mon                 read_monitor                      -     @678 
+#         rd_monitor_port      uvm_analysis_port                 -     @686 
+#       rd_seqr                read_sequencer                    -     @569 
+#         rsp_export           uvm_analysis_export               -     @576 
+#         seq_item_export      uvm_seq_item_pull_imp             -     @670 
+#         arbitration_queue    array                             0     -    
+#         lock_queue           array                             0     -    
+#         num_last_reqs        integral                          32    'd1  
+#         num_last_rsps        integral                          32    'd1  
+#     scb                      fifo_scoreboard                   -     @500 
+#       scoreboard_read_port   uvm_analysis_imp_rd_monitor_port  -     @708 
+#       scoreboard_write_port  uvm_analysis_imp_monitor_port     -     @700 
+#     wr_agnt                  write_agent                       -     @486 
+#       wr_drv                 write_driver                      -     @717 
+#         rsp_port             uvm_analysis_port                 -     @732 
+#         seq_item_port        uvm_seq_item_pull_port            -     @724 
+#       wr_mon                 write_monitor                     -     @849 
+#         monitor_port         uvm_analysis_port                 -     @857 
+#       wr_seqr                write_sequencer                   -     @740 
+#         rsp_export           uvm_analysis_export               -     @747 
+#         seq_item_export      uvm_seq_item_pull_imp             -     @841 
+#         arbitration_queue    array                             0     -    
+#         lock_queue           array                             0     -    
+#         num_last_reqs        integral                          32    'd1  
+#         num_last_rsps        integral                          32    'd1  
+# --------------------------------------------------------------------------
+# 
+# UVM_INFO uvm_scoreboard.sv(69) @ 770: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 86 --- DUT Read Data: 86
+# UVM_INFO uvm_scoreboard.sv(69) @ 980: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 95 --- DUT Read Data: 95
+# UVM_INFO uvm_scoreboard.sv(69) @ 1050: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 16 --- DUT Read Data: 16
+# UVM_INFO uvm_scoreboard.sv(69) @ 1120: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 27 --- DUT Read Data: 27
+# UVM_INFO uvm_scoreboard.sv(69) @ 1190: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: e4 --- DUT Read Data: e4
+# UVM_INFO uvm_scoreboard.sv(69) @ 1260: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: cb --- DUT Read Data: cb
+# UVM_INFO uvm_scoreboard.sv(69) @ 1330: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: b0 --- DUT Read Data: b0
+# UVM_INFO uvm_scoreboard.sv(69) @ 1400: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 89 --- DUT Read Data: 89
+# UVM_INFO uvm_scoreboard.sv(69) @ 1470: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 47 --- DUT Read Data: 47
+# UVM_INFO uvm_scoreboard.sv(69) @ 1540: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 5a --- DUT Read Data: 5a
+# UVM_INFO uvm_scoreboard.sv(69) @ 1610: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 31 --- DUT Read Data: 31
+# UVM_INFO uvm_scoreboard.sv(69) @ 1820: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: c9 --- DUT Read Data: c9
+# UVM_INFO uvm_scoreboard.sv(69) @ 1960: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: a6 --- DUT Read Data: a6
+# UVM_INFO uvm_scoreboard.sv(69) @ 2030: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: a6 --- DUT Read Data: a6
+# UVM_INFO uvm_scoreboard.sv(69) @ 2100: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: a6 --- DUT Read Data: a6
+# UVM_INFO uvm_scoreboard.sv(69) @ 2170: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: a6 --- DUT Read Data: a6
+# UVM_INFO uvm_scoreboard.sv(69) @ 2240: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: a6 --- DUT Read Data: a6
+# UVM_INFO uvm_scoreboard.sv(69) @ 2310: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: a6 --- DUT Read Data: a6
+# UVM_INFO uvm_scoreboard.sv(69) @ 2380: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: a6 --- DUT Read Data: a6
+# UVM_INFO uvm_scoreboard.sv(69) @ 2450: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: a6 --- DUT Read Data: a6
+# UVM_INFO uvm_scoreboard.sv(69) @ 2520: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: a6 --- DUT Read Data: a6
+# UVM_INFO uvm_scoreboard.sv(69) @ 2590: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: a6 --- DUT Read Data: a6
+# UVM_INFO uvm_scoreboard.sv(69) @ 2660: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: a6 --- DUT Read Data: a6
+# UVM_INFO uvm_scoreboard.sv(69) @ 2730: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: a6 --- DUT Read Data: a6
+# UVM_INFO uvm_scoreboard.sv(69) @ 2870: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: a6 --- DUT Read Data: a6
+# UVM_INFO uvm_scoreboard.sv(69) @ 3010: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: a6 --- DUT Read Data: a6
+# UVM_INFO uvm_scoreboard.sv(69) @ 3150: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: a6 --- DUT Read Data: a6
+# UVM_INFO uvm_scoreboard.sv(69) @ 3220: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: a6 --- DUT Read Data: a6
+# UVM_INFO uvm_scoreboard.sv(69) @ 3290: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: a6 --- DUT Read Data: a6
+# UVM_INFO uvm_scoreboard.sv(69) @ 3360: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: a6 --- DUT Read Data: a6
+# UVM_INFO uvm_scoreboard.sv(69) @ 3430: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: a6 --- DUT Read Data: a6
+# UVM_INFO uvm_scoreboard.sv(69) @ 3500: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: a6 --- DUT Read Data: a6
+# UVM_INFO uvm_scoreboard.sv(69) @ 3570: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: a6 --- DUT Read Data: a6
+# UVM_INFO uvm_scoreboard.sv(69) @ 3780: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: a6 --- DUT Read Data: a6
+# UVM_INFO uvm_scoreboard.sv(69) @ 3850: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: a6 --- DUT Read Data: a6
+# UVM_INFO uvm_scoreboard.sv(69) @ 3920: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: a6 --- DUT Read Data: a6
+# UVM_INFO uvm_scoreboard.sv(69) @ 3990: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: a6 --- DUT Read Data: a6
+# UVM_INFO uvm_scoreboard.sv(69) @ 4060: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: a6 --- DUT Read Data: a6
+# UVM_INFO uvm_scoreboard.sv(69) @ 4270: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: a6 --- DUT Read Data: a6
+# UVM_INFO uvm_scoreboard.sv(69) @ 4340: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: a6 --- DUT Read Data: a6
+# UVM_INFO uvm_scoreboard.sv(69) @ 4410: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: a6 --- DUT Read Data: a6
+# UVM_INFO uvm_scoreboard.sv(69) @ 4480: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: a6 --- DUT Read Data: a6
+# UVM_INFO uvm_scoreboard.sv(69) @ 4550: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: a6 --- DUT Read Data: a6
+# UVM_INFO uvm_scoreboard.sv(69) @ 4620: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: a6 --- DUT Read Data: a6
+# UVM_INFO uvm_scoreboard.sv(69) @ 4690: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: a6 --- DUT Read Data: a6
+# UVM_INFO uvm_scoreboard.sv(69) @ 4760: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 68 --- DUT Read Data: 68
+# UVM_INFO uvm_scoreboard.sv(69) @ 4900: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 9b --- DUT Read Data: 9b
+# UVM_INFO uvm_scoreboard.sv(69) @ 4970: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 5f --- DUT Read Data: 5f
+# UVM_INFO uvm_scoreboard.sv(69) @ 5250: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 2 --- DUT Read Data: 2
+# UVM_INFO uvm_scoreboard.sv(69) @ 5320: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 7c --- DUT Read Data: 7c
+# UVM_INFO uvm_scoreboard.sv(69) @ 5390: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 92 --- DUT Read Data: 92
+# UVM_INFO uvm_scoreboard.sv(69) @ 5460: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 89 --- DUT Read Data: 89
+# UVM_INFO uvm_scoreboard.sv(69) @ 5530: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 2f --- DUT Read Data: 2f
+# UVM_INFO uvm_scoreboard.sv(69) @ 5600: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 78 --- DUT Read Data: 78
+# UVM_INFO uvm_scoreboard.sv(69) @ 5670: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: a1 --- DUT Read Data: a1
+# UVM_INFO uvm_scoreboard.sv(69) @ 5880: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 1 --- DUT Read Data: 1
+# UVM_INFO uvm_scoreboard.sv(69) @ 5950: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 8d --- DUT Read Data: 8d
+# UVM_INFO uvm_scoreboard.sv(69) @ 6160: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 8d --- DUT Read Data: 8d
+# UVM_INFO uvm_scoreboard.sv(69) @ 6230: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 8d --- DUT Read Data: 8d
+# UVM_INFO uvm_scoreboard.sv(69) @ 6370: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 8d --- DUT Read Data: 8d
+# UVM_INFO uvm_scoreboard.sv(69) @ 6440: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 8d --- DUT Read Data: 8d
+# UVM_INFO uvm_scoreboard.sv(69) @ 6510: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 8d --- DUT Read Data: 8d
+# UVM_INFO uvm_scoreboard.sv(69) @ 6580: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 8d --- DUT Read Data: 8d
+# UVM_INFO uvm_scoreboard.sv(69) @ 6650: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 8d --- DUT Read Data: 8d
+# UVM_INFO uvm_scoreboard.sv(69) @ 6720: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 8d --- DUT Read Data: 8d
+# UVM_INFO uvm_scoreboard.sv(69) @ 6790: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 8d --- DUT Read Data: 8d
+# UVM_INFO uvm_scoreboard.sv(69) @ 6860: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 8d --- DUT Read Data: 8d
+# UVM_INFO uvm_scoreboard.sv(69) @ 6930: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 8d --- DUT Read Data: 8d
+# UVM_INFO uvm_scoreboard.sv(69) @ 7070: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 8d --- DUT Read Data: 8d
+# UVM_INFO uvm_scoreboard.sv(69) @ 7140: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 8d --- DUT Read Data: 8d
+# UVM_INFO uvm_scoreboard.sv(69) @ 7280: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 8d --- DUT Read Data: 8d
+# UVM_INFO uvm_scoreboard.sv(69) @ 7420: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 8d --- DUT Read Data: 8d
+# UVM_INFO uvm_scoreboard.sv(69) @ 7490: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 8d --- DUT Read Data: 8d
+# UVM_INFO uvm_scoreboard.sv(69) @ 7560: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 8d --- DUT Read Data: 8d
+# UVM_INFO uvm_scoreboard.sv(69) @ 7630: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 8d --- DUT Read Data: 8d
+# UVM_INFO uvm_scoreboard.sv(69) @ 7700: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 8d --- DUT Read Data: 8d
+# UVM_INFO uvm_scoreboard.sv(69) @ 7770: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 8d --- DUT Read Data: 8d
+# UVM_INFO uvm_scoreboard.sv(69) @ 7840: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 8d --- DUT Read Data: 8d
+# UVM_INFO uvm_scoreboard.sv(69) @ 7980: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 8d --- DUT Read Data: 8d
+# UVM_INFO uvm_scoreboard.sv(69) @ 8050: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 8d --- DUT Read Data: 8d
+# UVM_INFO uvm_scoreboard.sv(69) @ 8120: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 8d --- DUT Read Data: 8d
+# UVM_INFO uvm_scoreboard.sv(69) @ 8190: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 8d --- DUT Read Data: 8d
+# UVM_INFO uvm_scoreboard.sv(69) @ 8330: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 8d --- DUT Read Data: 8d
+# UVM_INFO uvm_scoreboard.sv(69) @ 8470: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 8d --- DUT Read Data: 8d
+# UVM_INFO uvm_scoreboard.sv(69) @ 8540: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 8d --- DUT Read Data: 8d
+# UVM_INFO uvm_scoreboard.sv(69) @ 8610: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 8d --- DUT Read Data: 8d
+# UVM_INFO uvm_scoreboard.sv(69) @ 8680: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 8d --- DUT Read Data: 8d
+# UVM_INFO uvm_scoreboard.sv(69) @ 8750: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 8d --- DUT Read Data: 8d
+# UVM_INFO uvm_scoreboard.sv(69) @ 8820: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 8d --- DUT Read Data: 8d
+# UVM_INFO uvm_scoreboard.sv(69) @ 8890: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 8d --- DUT Read Data: 8d
+# UVM_INFO uvm_scoreboard.sv(69) @ 9030: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 45 --- DUT Read Data: 45
+# UVM_INFO uvm_scoreboard.sv(69) @ 9100: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: f7 --- DUT Read Data: f7
+# UVM_INFO uvm_scoreboard.sv(69) @ 9170: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 37 --- DUT Read Data: 37
+# UVM_INFO uvm_scoreboard.sv(69) @ 9240: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: be --- DUT Read Data: be
+# UVM_INFO uvm_scoreboard.sv(69) @ 9310: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: fb --- DUT Read Data: fb
+# UVM_INFO uvm_scoreboard.sv(69) @ 9450: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: c --- DUT Read Data: c
+# UVM_INFO uvm_scoreboard.sv(69) @ 9940: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 31 --- DUT Read Data: 31
+# UVM_INFO uvm_scoreboard.sv(69) @ 10010: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 27 --- DUT Read Data: 27
+# UVM_INFO uvm_scoreboard.sv(69) @ 10150: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: aa --- DUT Read Data: aa
+# UVM_INFO uvm_scoreboard.sv(69) @ 10220: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: a --- DUT Read Data: a
+# UVM_INFO uvm_scoreboard.sv(69) @ 10500: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 2f --- DUT Read Data: 2f
+# UVM_INFO uvm_scoreboard.sv(69) @ 11130: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: d1 --- DUT Read Data: d1
+# UVM_INFO uvm_scoreboard.sv(69) @ 11270: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: d4 --- DUT Read Data: d4
+# UVM_INFO uvm_scoreboard.sv(69) @ 11410: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 5b --- DUT Read Data: 5b
+# UVM_INFO uvm_scoreboard.sv(69) @ 11480: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 16 --- DUT Read Data: 16
+# UVM_INFO uvm_scoreboard.sv(69) @ 11620: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 56 --- DUT Read Data: 56
+# UVM_INFO uvm_scoreboard.sv(69) @ 11690: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 2a --- DUT Read Data: 2a
+# UVM_INFO uvm_scoreboard.sv(69) @ 11760: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: a2 --- DUT Read Data: a2
+# UVM_INFO uvm_scoreboard.sv(69) @ 11830: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: b7 --- DUT Read Data: b7
+# UVM_INFO uvm_scoreboard.sv(69) @ 11900: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: b7 --- DUT Read Data: b7
+# UVM_INFO uvm_scoreboard.sv(69) @ 11970: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 10 --- DUT Read Data: 10
+# UVM_INFO uvm_scoreboard.sv(69) @ 12320: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 27 --- DUT Read Data: 27
+# UVM_INFO uvm_scoreboard.sv(69) @ 12390: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 4d --- DUT Read Data: 4d
+# UVM_INFO uvm_scoreboard.sv(69) @ 12460: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: a --- DUT Read Data: a
+# UVM_INFO uvm_scoreboard.sv(69) @ 13090: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 27 --- DUT Read Data: 27
+# UVM_INFO uvm_scoreboard.sv(69) @ 13160: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 6e --- DUT Read Data: 6e
+# UVM_INFO uvm_scoreboard.sv(69) @ 13300: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 6e --- DUT Read Data: 6e
+# UVM_INFO uvm_scoreboard.sv(69) @ 13440: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 6e --- DUT Read Data: 6e
+# UVM_INFO uvm_scoreboard.sv(69) @ 13510: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 6e --- DUT Read Data: 6e
+# UVM_INFO uvm_scoreboard.sv(69) @ 13580: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 6e --- DUT Read Data: 6e
+# UVM_INFO uvm_scoreboard.sv(69) @ 13720: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 6e --- DUT Read Data: 6e
+# UVM_INFO uvm_scoreboard.sv(69) @ 13790: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 6e --- DUT Read Data: 6e
+# UVM_INFO uvm_scoreboard.sv(69) @ 13860: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 6e --- DUT Read Data: 6e
+# UVM_INFO uvm_scoreboard.sv(69) @ 13930: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 6e --- DUT Read Data: 6e
+# UVM_INFO uvm_scoreboard.sv(69) @ 14000: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 6e --- DUT Read Data: 6e
+# UVM_INFO uvm_scoreboard.sv(69) @ 14070: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 6e --- DUT Read Data: 6e
+# UVM_INFO uvm_scoreboard.sv(69) @ 14210: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 6e --- DUT Read Data: 6e
+# UVM_INFO uvm_scoreboard.sv(69) @ 14350: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 6e --- DUT Read Data: 6e
+# UVM_INFO uvm_scoreboard.sv(69) @ 14420: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 6e --- DUT Read Data: 6e
+# UVM_INFO uvm_scoreboard.sv(69) @ 14630: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 6e --- DUT Read Data: 6e
+# UVM_INFO uvm_scoreboard.sv(69) @ 15190: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 6e --- DUT Read Data: 6e
+# UVM_INFO uvm_scoreboard.sv(69) @ 15330: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 6e --- DUT Read Data: 6e
+# UVM_INFO uvm_scoreboard.sv(69) @ 15470: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 6e --- DUT Read Data: 6e
+# UVM_INFO uvm_scoreboard.sv(69) @ 15540: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 6e --- DUT Read Data: 6e
+# UVM_INFO uvm_scoreboard.sv(69) @ 15610: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 6e --- DUT Read Data: 6e
+# UVM_INFO uvm_scoreboard.sv(69) @ 15680: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 6e --- DUT Read Data: 6e
+# UVM_INFO uvm_scoreboard.sv(69) @ 15750: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 6e --- DUT Read Data: 6e
+# UVM_INFO uvm_scoreboard.sv(69) @ 15820: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 6e --- DUT Read Data: 6e
+# UVM_INFO uvm_scoreboard.sv(69) @ 15890: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 6e --- DUT Read Data: 6e
+# UVM_INFO uvm_scoreboard.sv(69) @ 15960: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 6e --- DUT Read Data: 6e
+# UVM_INFO uvm_scoreboard.sv(69) @ 16030: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 6e --- DUT Read Data: 6e
+# UVM_INFO uvm_scoreboard.sv(69) @ 16100: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 6e --- DUT Read Data: 6e
+# UVM_INFO uvm_scoreboard.sv(69) @ 16170: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 6e --- DUT Read Data: 6e
+# UVM_INFO uvm_scoreboard.sv(69) @ 16380: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 6e --- DUT Read Data: 6e
+# UVM_INFO uvm_scoreboard.sv(69) @ 16450: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 6e --- DUT Read Data: 6e
+# UVM_INFO uvm_scoreboard.sv(69) @ 16520: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 6e --- DUT Read Data: 6e
+# UVM_INFO uvm_scoreboard.sv(69) @ 16730: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 6e --- DUT Read Data: 6e
+# UVM_INFO uvm_scoreboard.sv(69) @ 16800: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 6e --- DUT Read Data: 6e
+# UVM_INFO uvm_scoreboard.sv(69) @ 16870: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 6e --- DUT Read Data: 6e
+# UVM_INFO uvm_scoreboard.sv(69) @ 16940: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: b8 --- DUT Read Data: b8
+# UVM_INFO uvm_scoreboard.sv(69) @ 17010: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 5e --- DUT Read Data: 5e
+# UVM_INFO uvm_scoreboard.sv(69) @ 17080: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 2 --- DUT Read Data: 2
+# UVM_INFO uvm_scoreboard.sv(69) @ 17150: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 8d --- DUT Read Data: 8d
+# UVM_INFO uvm_scoreboard.sv(69) @ 17220: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 88 --- DUT Read Data: 88
+# UVM_INFO uvm_scoreboard.sv(69) @ 17500: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: a9 --- DUT Read Data: a9
+# UVM_INFO uvm_scoreboard.sv(69) @ 17570: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: f6 --- DUT Read Data: f6
+# UVM_INFO uvm_scoreboard.sv(69) @ 17640: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: f6 --- DUT Read Data: f6
+# UVM_INFO uvm_scoreboard.sv(69) @ 17780: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: e0 --- DUT Read Data: e0
+# UVM_INFO uvm_scoreboard.sv(69) @ 17850: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 43 --- DUT Read Data: 43
+# UVM_INFO uvm_scoreboard.sv(69) @ 17920: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: ba --- DUT Read Data: ba
+# UVM_INFO uvm_scoreboard.sv(69) @ 17990: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 90 --- DUT Read Data: 90
+# UVM_INFO uvm_scoreboard.sv(69) @ 18060: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 66 --- DUT Read Data: 66
+# UVM_INFO uvm_scoreboard.sv(69) @ 18130: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 9a --- DUT Read Data: 9a
+# UVM_INFO uvm_scoreboard.sv(69) @ 18200: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 47 --- DUT Read Data: 47
+# UVM_INFO uvm_scoreboard.sv(69) @ 18270: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 41 --- DUT Read Data: 41
+# UVM_INFO uvm_scoreboard.sv(69) @ 18340: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: a9 --- DUT Read Data: a9
+# UVM_INFO uvm_scoreboard.sv(69) @ 18410: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: aa --- DUT Read Data: aa
+# UVM_INFO uvm_scoreboard.sv(69) @ 18480: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 4 --- DUT Read Data: 4
+# UVM_INFO uvm_scoreboard.sv(69) @ 18550: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 50 --- DUT Read Data: 50
+# UVM_INFO uvm_scoreboard.sv(69) @ 18620: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 44 --- DUT Read Data: 44
+# UVM_INFO uvm_scoreboard.sv(69) @ 18760: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 38 --- DUT Read Data: 38
+# UVM_INFO uvm_scoreboard.sv(69) @ 18830: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: f6 --- DUT Read Data: f6
+# UVM_INFO uvm_scoreboard.sv(69) @ 19390: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 5d --- DUT Read Data: 5d
+# UVM_INFO uvm_scoreboard.sv(69) @ 19460: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 4 --- DUT Read Data: 4
+# UVM_INFO uvm_scoreboard.sv(69) @ 19530: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 34 --- DUT Read Data: 34
+# UVM_INFO uvm_scoreboard.sv(69) @ 19600: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: ff --- DUT Read Data: ff
+# UVM_INFO uvm_scoreboard.sv(69) @ 19670: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 64 --- DUT Read Data: 64
+# UVM_INFO uvm_scoreboard.sv(69) @ 19880: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: c1 --- DUT Read Data: c1
+# UVM_INFO uvm_scoreboard.sv(69) @ 19950: uvm_test_top.env.scb [SCOREBOARD] MATCH Expected Data: 97 --- DUT Read Data: 97
+# Sorry! Ran out of clock cycles
+# ** Note: $finish    : uvm_test_top.sv(96)
+#    Time: 20 us  Iteration: 0  Instance: /top
+# 1
+# Break in Module top at uvm_test_top.sv line 96
+# QuestaSim-64 vcover 2023.3 Coverage Utility 2023.07 Jul 17 2023
+# Start time: 00:13:08 on Jun 05,2024
+# vcover report -details -codeAll -html file1 
+# End time: 00:13:14 on Jun 05,2024, Elapsed time: 0:00:06
+# Errors: 0, Warnings: 0
+coverage report -assert -binrhs -details -cvg
+# Coverage Report by instance with details
+# 
+# =================================================================================
+# === Instance: /uvm_test_top_sv_unit
+# === Design Unit: work.uvm_test_top_sv_unit
+# =================================================================================
+# 
+# Assertion Coverage:
+#     Assertions                       2         2         0   100.00%
+# --------------------------------------------------------------------
+# Name                 File(Line)                   Failure      Pass 
+#                                                   Count        Count
+# --------------------------------------------------------------------
+# /uvm_test_top_sv_unit/write_sequence/body/#ublk#268143620#19/immed__21
+#                      uvm_wr_sequence.sv(21)             0          1
+# /uvm_test_top_sv_unit/read_sequence/body/#ublk#268143620#19/immed__21
+#                      uvm_rd_sequence.sv(21)             0          1
+# 
+# Covergroup Coverage:
+#     Covergroups                      2        na        na   100.00%
+#         Coverpoints/Crosses          4        na        na        na
+#             Covergroup Bins          4         4         0   100.00%
+# -----------------------------------------------------------------------------------------------------------------------------------
+# Covergroup                                         RHS                           Metric       Goal       Bins    Status               
+#                                                                                                                                    
+# -----------------------------------------------------------------------------------------------------------------------------------
+#  TYPE /uvm_test_top_sv_unit/wr_fifo_coverage/FIFO_coverage 
+#                                                                                 100.00%        100          -    Covered              
+#     covered/total bins:                                                               2          2          -                      
+#     missing/total bins:                                                               0          2          -                      
+#     % Hit:                                                                      100.00%        100          -                      
+#     Coverpoint #coverpoint__0#                                                  100.00%        100          -    Covered              
+#         covered/total bins:                                                           1          1          -                      
+#         missing/total bins:                                                           0          1          -                      
+#         % Hit:                                                                  100.00%        100          -                      
+#         bin data_bin[255]                          255                                1          1          -    Covered              
+#     Coverpoint wFull                                                            100.00%        100          -    Covered              
+#         covered/total bins:                                                           1          1          -                      
+#         missing/total bins:                                                           0          1          -                      
+#         % Hit:                                                                  100.00%        100          -                      
+#         bin full_bin[0]                            0                                471          1          -    Covered              
+#  Covergroup instance \/uvm_test_top_sv_unit::wr_fifo_coverage::FIFO_coverage  
+#                                                                                 100.00%        100          -    Covered              
+#     covered/total bins:                                                               2          2          -                      
+#     missing/total bins:                                                               0          2          -                      
+#     % Hit:                                                                      100.00%        100          -                      
+#     Coverpoint #coverpoint__0#                                                  100.00%        100          -    Covered              
+#         covered/total bins:                                                           1          1          -                      
+#         missing/total bins:                                                           0          1          -                      
+#         % Hit:                                                                  100.00%        100          -                      
+#         bin data_bin[255]                          255                                1          1          -    Covered              
+#     Coverpoint wFull                                                            100.00%        100          -    Covered              
+#         covered/total bins:                                                           1          1          -                      
+#         missing/total bins:                                                           0          1          -                      
+#         % Hit:                                                                  100.00%        100          -                      
+#         bin full_bin[0]                            0                                471          1          -    Covered              
+#  TYPE /uvm_test_top_sv_unit/fifo_read_coverage/FIFO_coverage 
+#                                                                                 100.00%        100          -    Covered              
+#     covered/total bins:                                                               2          2          -                      
+#     missing/total bins:                                                               0          2          -                      
+#     % Hit:                                                                      100.00%        100          -                      
+#     Coverpoint #coverpoint__0#                                                  100.00%        100          -    Covered              
+#         covered/total bins:                                                           1          1          -                      
+#         missing/total bins:                                                           0          1          -                      
+#         % Hit:                                                                  100.00%        100          -                      
+#         bin data_bin[255]                          255                                1          1          -    Covered              
+#     Coverpoint rEmpty                                                           100.00%        100          -    Covered              
+#         covered/total bins:                                                           1          1          -                      
+#         missing/total bins:                                                           0          1          -                      
+#         % Hit:                                                                  100.00%        100          -                      
+#         bin empty_bin[0]                           0                                179          1          -    Covered              
+#  Covergroup instance \/uvm_test_top_sv_unit::fifo_read_coverage::FIFO_coverage  
+#                                                                                 100.00%        100          -    Covered              
+#     covered/total bins:                                                               2          2          -                      
+#     missing/total bins:                                                               0          2          -                      
+#     % Hit:                                                                      100.00%        100          -                      
+#     Coverpoint #coverpoint__0#                                                  100.00%        100          -    Covered              
+#         covered/total bins:                                                           1          1          -                      
+#         missing/total bins:                                                           0          1          -                      
+#         % Hit:                                                                  100.00%        100          -                      
+#         bin data_bin[255]                          255                                1          1          -    Covered              
+#     Coverpoint rEmpty                                                           100.00%        100          -    Covered              
+#         covered/total bins:                                                           1          1          -                      
+#         missing/total bins:                                                           0          1          -                      
+#         % Hit:                                                                  100.00%        100          -                      
+#         bin empty_bin[0]                           0                                179          1          -    Covered              
+# 
+# COVERGROUP COVERAGE:
+# -----------------------------------------------------------------------------------------------------------------------------------
+# Covergroup                                         RHS                           Metric       Goal       Bins    Status               
+#                                                                                                                                    
+# -----------------------------------------------------------------------------------------------------------------------------------
+#  TYPE /uvm_test_top_sv_unit/wr_fifo_coverage/FIFO_coverage 
+#                                                                                 100.00%        100          -    Covered              
+#     covered/total bins:                                                               2          2          -                      
+#     missing/total bins:                                                               0          2          -                      
+#     % Hit:                                                                      100.00%        100          -                      
+#     Coverpoint #coverpoint__0#                                                  100.00%        100          -    Covered              
+#         covered/total bins:                                                           1          1          -                      
+#         missing/total bins:                                                           0          1          -                      
+#         % Hit:                                                                  100.00%        100          -                      
+#         bin data_bin[255]                          255                                1          1          -    Covered              
+#     Coverpoint wFull                                                            100.00%        100          -    Covered              
+#         covered/total bins:                                                           1          1          -                      
+#         missing/total bins:                                                           0          1          -                      
+#         % Hit:                                                                  100.00%        100          -                      
+#         bin full_bin[0]                            0                                471          1          -    Covered              
+#  Covergroup instance \/uvm_test_top_sv_unit::wr_fifo_coverage::FIFO_coverage  
+#                                                                                 100.00%        100          -    Covered              
+#     covered/total bins:                                                               2          2          -                      
+#     missing/total bins:                                                               0          2          -                      
+#     % Hit:                                                                      100.00%        100          -                      
+#     Coverpoint #coverpoint__0#                                                  100.00%        100          -    Covered              
+#         covered/total bins:                                                           1          1          -                      
+#         missing/total bins:                                                           0          1          -                      
+#         % Hit:                                                                  100.00%        100          -                      
+#         bin data_bin[255]                          255                                1          1          -    Covered              
+#     Coverpoint wFull                                                            100.00%        100          -    Covered              
+#         covered/total bins:                                                           1          1          -                      
+#         missing/total bins:                                                           0          1          -                      
+#         % Hit:                                                                  100.00%        100          -                      
+#         bin full_bin[0]                            0                                471          1          -    Covered              
+#  TYPE /uvm_test_top_sv_unit/fifo_read_coverage/FIFO_coverage 
+#                                                                                 100.00%        100          -    Covered              
+#     covered/total bins:                                                               2          2          -                      
+#     missing/total bins:                                                               0          2          -                      
+#     % Hit:                                                                      100.00%        100          -                      
+#     Coverpoint #coverpoint__0#                                                  100.00%        100          -    Covered              
+#         covered/total bins:                                                           1          1          -                      
+#         missing/total bins:                                                           0          1          -                      
+#         % Hit:                                                                  100.00%        100          -                      
+#         bin data_bin[255]                          255                                1          1          -    Covered              
+#     Coverpoint rEmpty                                                           100.00%        100          -    Covered              
+#         covered/total bins:                                                           1          1          -                      
+#         missing/total bins:                                                           0          1          -                      
+#         % Hit:                                                                  100.00%        100          -                      
+#         bin empty_bin[0]                           0                                179          1          -    Covered              
+#  Covergroup instance \/uvm_test_top_sv_unit::fifo_read_coverage::FIFO_coverage  
+#                                                                                 100.00%        100          -    Covered              
+#     covered/total bins:                                                               2          2          -                      
+#     missing/total bins:                                                               0          2          -                      
+#     % Hit:                                                                      100.00%        100          -                      
+#     Coverpoint #coverpoint__0#                                                  100.00%        100          -    Covered              
+#         covered/total bins:                                                           1          1          -                      
+#         missing/total bins:                                                           0          1          -                      
+#         % Hit:                                                                  100.00%        100          -                      
+#         bin data_bin[255]                          255                                1          1          -    Covered              
+#     Coverpoint rEmpty                                                           100.00%        100          -    Covered              
+#         covered/total bins:                                                           1          1          -                      
+#         missing/total bins:                                                           0          1          -                      
+#         % Hit:                                                                  100.00%        100          -                      
+#         bin empty_bin[0]                           0                                179          1          -    Covered              
+# 
+# TOTAL COVERGROUP COVERAGE: 100.00%  COVERGROUP TYPES: 2
+# 
+# ASSERTION RESULTS:
+# --------------------------------------------------------------------
+# Name                 File(Line)                   Failure      Pass 
+#                                                   Count        Count
+# --------------------------------------------------------------------
+# /uvm_test_top_sv_unit/write_sequence/body/#ublk#268143620#19/immed__21
+#                      uvm_wr_sequence.sv(21)             0          1
+# /uvm_test_top_sv_unit/read_sequence/body/#ublk#268143620#19/immed__21
+#                      uvm_rd_sequence.sv(21)             0          1
+# 
+# Total Coverage By Instance (filtered view): 100.00%
+# 
+# 
